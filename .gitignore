@@ -1,0 +1,10 @@
+# Local stuff
+.DS_Store
+Thumbs.db
+*.log
+
+# Never commit secrets
+.env
+*.pem
+*_key*
+*token*

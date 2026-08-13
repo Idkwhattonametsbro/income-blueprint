@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Content Studio — $0 Blueprint Kit</title>
+<style>
+  :root { --bg:#F6F5F2; --card:#FFFFFF; --line:#EBE4D8; --ink:#3F3A34; --mut:#8A8378; --acc:#F97316; --acc2:#EA580C; --ok:#059669; --warn:#D97706; }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  body { font-family: Inter, system-ui, -apple-system, sans-serif; background:var(--bg); color:var(--ink); min-height:100vh; }
+  .top { background:#fff; border-bottom:1px solid var(--line); padding:14px 20px; display:flex; align-items:center; gap:12px; position:sticky; top:0; z-index:10; }
+  .logo { width:34px; height:34px; border-radius:10px; background:linear-gradient(135deg,#FB923C,#EA580C); display:flex; align-items:center; justify-content:center; color:#fff; font-weight:800; font-size:16px; }
+  .top h1 { font-size:15px; letter-spacing:.04em; }
+  .top .sub { font-size:11px; color:var(--mut); }
+  .tabs { display:flex; gap:6px; margin-left:auto; flex-wrap:wrap; }
+  .tab { background:#fff; border:1px solid var(--line); border-radius:10px; padding:7px 13px; font-size:11px; font-weight:600; cursor:pointer; color:var(--mut); }
+  .tab.on { background:linear-gradient(135deg,#FB923C,#EA580C); color:#fff; border-color:transparent; }
+  main { max-width:860px; margin:0 auto; padding:24px 16px 80px; }
+  .panel { display:none; }
+  .panel.on { display:block; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:18px; margin-bottom:14px; box-shadow:0 2px 10px rgba(28,25,23,.05); }
+  .card h2 { font-size:13px; letter-spacing:.12em; margin-bottom:10px; color:var(--ink); }
+  .card p, .card li { font-size:13px; line-height:1.6; color:#55504A; }
+  label { display:block; font-size:11px; font-weight:600; letter-spacing:.08em; color:var(--mut); margin:10px 0 5px; }
+  input[type=text], input[type=number], select, textarea { width:100%; background:#FAF9F6; border:1px solid var(--line); border-radius:10px; padding:10px 12px; font-size:13px; color:var(--ink); font-family:inherit; }
+  textarea { min-height:64px; resize:vertical; }
+  .btn { display:inline-block; background:linear-gradient(135deg,#FB923C,#EA580C); color:#fff; border:none; border-radius:10px; padding:10px 18px; font-size:12px; font-weight:700; cursor:pointer; }
+  .btn.ghost { background:#fff; color:var(--ink); border:1px solid var(--line); }
+  .btn.small { padding:6px 12px; font-size:11px; }
+  .row { display:flex; gap:8px; align-items:center; flex-wrap:wrap; }
+  .hookbox { background:#FFF7ED; border:1px solid #FED7AA; border-radius:12px; padding:16px; font-size:15px; font-weight:600; line-height:1.5; min-height:60px; }
+  table { width:100%; border-collapse:collapse; font-size:12px; }
+  th { text-align:left; font-size:10px; letter-spacing:.08em; color:var(--mut); padding:6px 8px; border-bottom:1px solid var(--line); font-weight:600; }
+  td { padding:7px 8px; border-bottom:1px solid #F0EBE2; color:#55504A; vertical-align:top; }
+  td input { padding:6px 8px; font-size:12px; background:#FAF9F6; }
+  .badge { display:inline-block; font-size:10px; font-weight:700; letter-spacing:.06em; padding:3px 8px; border-radius:6px; }
+  .b-ok { background:#ECFDF5; color:var(--ok); } .b-warn { background:#FFFBEB; color:var(--warn); } .b-mut { background:#F5F5F4; color:var(--mut); }
+  .grid2 { display:grid; grid-template-columns:1fr 1fr; gap:12px; } @media (max-width:640px){ .grid2{ grid-template-columns:1fr; } }
+  .footer { text-align:center; font-size:11px; color:var(--mut); padding:20px; }
+  .stat { font-size:11px; color:var(--mut); }
+  .stat b { color:var(--ink); font-size:16px; display:block; }
+  .statcard { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:14px; }
+</style>
+</head>
+<body>
+<div class="top">
+  <div class="logo">N</div>
+  <div><h1>CONTENT STUDIO</h1><div class="sub">$0 blueprint kit · runs 100% in your browser</div></div>
+  <div class="tabs">
+    <button class="tab on" data-t="home">Home</button>
+    <button class="tab" data-t="hooks">Hooks</button>
+    <button class="tab" data-t="scripts">Scripts</button>
+    <button class="tab" data-t="tracker">Tracker</button>
+    <button class="tab" data-t="calendar">Calendar</button>
+    <button class="tab" data-t="settings">Settings</button>
+  </div>
+</div>
+<main>
+  <!-- HOME -->
+  <section class="panel on" id="p-home">
+    <div class="grid2">
+      <div class="statcard"><span class="stat">POSTS LOGGED<b id="s-posts">0</b></span></div>
+      <div class="statcard"><span class="stat">EXPERIMENT PHASE<b id="s-phase">Setup</b></span></div>
+    </div>
+    <div class="card" style="margin-top:14px">
+      <h2>YOUR NORTH STAR</h2>
+      <p id="ns-display">Set your niche and north star in Settings.</p>
+    </div>
+    <div class="card">
+      <h2>TODAY</h2>
+      <p>1. Pull a hook below and record a 40–55 second script from the Scripts tab.<br>
+         2. Export 9:16, under 60s, post it, log it in the Tracker.<br>
+         3. Reply to every comment. That is the 10% only you can do.</p>
+      <div class="row" style="margin-top:12px">
+        <button class="btn" onclick="location.hash='hooks'">GET A HOOK</button>
+        <button class="btn ghost" onclick="location.hash='scripts'">BROWSE SCRIPTS</button>
+      </div>
+    </div>
+    <div class="card">
+      <h2>THE RULES (short version)</h2>
+      <ul style="padding-left:18px">
+        <li>One format + one product + one home platform until there is a pulse.</li>
+        <li>90% is systematized here. The 10% (record, upload, reply) is you.</li>
+        <li>15-post experiment before any pivot. Change one line, not the universe.</li>
+        <li>No bots, no fake views, no stolen clips, no income promises.</li>
+        <li>Never paste tokens or passwords into anything.</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- HOOKS -->
+  <section class="panel" id="p-hooks">
+    <div class="card">
+      <h2>HOOK MACHINE</h2>
+      <div class="hookbox" id="hookbox">Tap "New hook" to pull one.</div>
+      <div class="row" style="margin-top:12px">
+        <button class="btn" onclick="newHook()">NEW HOOK</button>
+        <button class="btn ghost" onclick="copyHook()">COPY</button>
+        <span class="stat" id="hookcount"></span>
+      </div>
+    </div>
+    <div class="card">
+      <h2>ALL 20 HOOKS</h2>
+      <ol id="hooklist" style="padding-left:20px"></ol>
+    </div>
+  </section>
+
+  <!-- SCRIPTS -->
+  <section class="panel" id="p-scripts">
+    <div class="card">
+      <h2>SCRIPT SKELETON</h2>
+      <p><b>Hook</b> (first second) → <b>3 steps/ideas</b> (one per breath) → <b>freebie mention</b> (max one) → <b>CTA</b> (save / follow).</p>
+      <div class="grid2" style="margin-top:12px">
+        <div><label>ON-SCREEN TEXT (bold lines only)</label><textarea id="script-ost">15 minutes on Sunday night.
+Step 1: brain dump.
+Step 2: pick 3.
+Step 3: one anchor.</textarea></div>
+        <div><label>YOUR SCRIPT NOTES</label><textarea id="script-notes" placeholder="Record voice reading the hook + steps. Calm pace. One take."></textarea></div>
+      </div>
+    </div>
+    <div class="card">
+      <h2>THE 10 SCRIPTS (in the repo)</h2>
+      <p>Open <b>scripts/scripts-10.md</b> for the full 10. Quick picker below:</p>
+      <div class="row" style="margin-top:10px">
+        <button class="btn" onclick="newScript()">RANDOM SCRIPT IDEA</button>
+        <span class="stat" id="scriptpick"></span>
+      </div>
+      <div id="scriptnames" style="margin-top:10px;font-size:12px;color:#55504A"></div>
+    </div>
+  </section>
+
+  <!-- TRACKER -->
+  <section class="panel" id="p-tracker">
+    <div class="card">
+      <h2>15-POST EXPERIMENT TRACKER</h2>
+      <p>Posts 1–5 test hooks · 6–10 test topics · 11–15 test CTA. Log every post — the data decides, not the mood.</p>
+      <div style="overflow-x:auto;margin-top:12px">
+        <table id="tbl">
+          <thead><tr><th>#</th><th>Date</th><th>Hook</th><th>Views</th><th>Saves</th><th>Comments</th><th>Notes</th><th></th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <div class="row" style="margin-top:12px">
+        <button class="btn small" onclick="addRow()">+ ADD POST</button>
+        <button class="btn ghost small" onclick="exportCsv()">EXPORT CSV</button>
+        <span class="stat" id="phase-hint"></span>
+      </div>
+    </div>
+  </section>
+
+  <!-- CALENDAR -->
+  <section class="panel" id="p-calendar">
+    <div class="card">
+      <h2>WEEKLY LOOP</h2>
+      <p><b>Setup (once, 2h):</b> account + bio + folders (hooks / filmed / posted).<br>
+         <b>Batch day (60–90 min, weekly):</b> 10 scripts drafted, pick 5, record, export 5.<br>
+         <b>Post days (10–15 min × 4–5):</b> upload → ≤3 hashtags → pin comment → done.<br>
+         <b>Review (15 min, weekly):</b> keep/kill one variable. Change one line in the change log.</p>
+    </div>
+    <div class="card">
+      <h2>15-POST GRID</h2>
+      <table>
+        <thead><tr><th>Posts</th><th>Test</th><th>What to change</th></tr></thead>
+        <tbody>
+          <tr><td>1–5</td><td>HOOKS</td><td>Same topic, five different first lines</td></tr>
+          <tr><td>6–10</td><td>TOPICS</td><td>Same hook style, five topics</td></tr>
+          <tr><td>11–15</td><td>CTA</td><td>Best hook + topic, five calls to action</td></tr>
+        </tbody>
+      </table>
+      <p style="margin-top:10px">Then: continue / pivot topic / pivot format / stop. Never "quit the idea" at post 7.</p>
+    </div>
+  </section>
+
+  <!-- SETTINGS -->
+  <section class="panel" id="p-settings">
+    <div class="card">
+      <h2>SETTINGS (saved in this browser only)</h2>
+      <label>NICHE</label>
+      <input type="text" id="in-niche" placeholder="calm weekly systems for broke beginners">
+      <label>FORMAT</label>
+      <select id="in-format">
+        <option>A1 · Faceless Shorts</option><option>A2 · Talking head</option>
+        <option>A3 · Screen tutorial</option><option>A4 · Carousel / static</option>
+      </select>
+      <label>HOME PLATFORM</label>
+      <select id="in-platform"><option>YouTube Shorts</option><option>TikTok</option></select>
+      <label>PRODUCT</label>
+      <select id="in-product">
+        <option>C1 · Template pack</option><option>C2 · Prompt/script pack</option>
+        <option>C3 · Mini guide PDF</option><option>C4 · Asset pack</option>
+      </select>
+      <label>NORTH STAR (one sentence)</label>
+      <textarea id="in-ns">I help broke students and first-job people get a calmer week and a usable system without buying courses or fancy apps, using short faceless videos, and I sell a simple planner / tracker pack.</textarea>
+      <div class="row" style="margin-top:14px">
+        <button class="btn" onclick="saveSettings()">SAVE</button>
+        <button class="btn ghost" onclick="resetData()">RESET ALL DATA</button>
+      </div>
+    </div>
+    <div class="card">
+      <h2>ABOUT</h2>
+      <p>Part of the Flexible $0 Starter Blueprint. The repo is a place to store scripts and the pack — it does not run 24/7 for you, and it will never ask for a token or password.</p>
+    </div>
+  </section>
+</main>
+<div class="footer">Flexible $0 Starter Blueprint · no bots · no fake views · no income promises</div>
+
+<script>
+  const HOOKS = [
+    "Your week is a mess because you have no system — here's the 5-minute fix.",
+    "I stopped buying planners. This free one-page reset does more.",
+    "3 apps you already have that can replace $200 of productivity tools.",
+    "Do this every Sunday night and Monday stops feeling like a war.",
+    "The 2-2-2 rule: the cheapest way to get a calmer week.",
+    "Your to-do list is too long. Cut it to 3 things and watch what happens.",
+    "I tried the $0 version of the 5AM routine. Here's what actually stuck.",
+    "Stop organizing your whole life. Organize the next 7 days.",
+    "The 10-minute evening that makes tomorrow effortless.",
+    "Why 'just be more disciplined' is bad advice (and what to do instead).",
+    "Free template inside: the weekly reset that takes one page.",
+    "You don't need a new app. You need a shutdown ritual.",
+    "The 1-3-5 rule explained in 30 seconds.",
+    "How broke students actually get organized (no course, no app).",
+    "This Sunday ritual takes 15 minutes and saves you 5 hours.",
+    "Your phone is the problem. Here's the 3-tab setup that fixes it.",
+    "What to do when you have 20 tabs open in your brain.",
+    "The $0 morning routine that doesn't require waking up at 5.",
+    "Everything in my weekly system fits on one page — here it is.",
+    "If you can't keep a habit for a week, you're not the problem. The system is."
+  ];
+  const SCRIPTS = [
+    "The weekly reset (lead magnet)", "The 1-3-5 rule", "The 2-2-2 rule",
+    "The shutdown ritual", "The Sunday 15", "The 3-tab phone setup",
+    "The broke student's system", "The 10-minute evening",
+    "One page, not an app", "You're not the problem"
+  ];
+  const K = { posts:'cs_posts', cfg:'cs_cfg' };
+  const ls = { get:(k,d)=>{try{return JSON.parse(localStorage.getItem(k))||d}catch(e){return d}}, set:(k,v)=>{try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}} };
+  let cfg = ls.get(K.cfg, { niche:'calm weekly systems for broke beginners', format:'A1', platform:'YouTube Shorts', product:'C1', ns:'' });
+  let posts = ls.get(K.posts, []);
+
+  // tabs
+  document.querySelectorAll('.tab').forEach(b=>b.addEventListener('click',()=>{
+    document.querySelectorAll('.tab').forEach(x=>x.classList.remove('on'));
+    document.querySelectorAll('.panel').forEach(x=>x.classList.remove('on'));
+    b.classList.add('on');
+    document.getElementById('p-'+b.dataset.t).classList.add('on');
+    location.hash = b.dataset.t;
+    render();
+  }));
+  function go(t){ const b=[...document.querySelectorAll('.tab')].find(x=>x.dataset.t===t); if(b) b.click(); }
+
+  function render(){
+    document.getElementById('s-posts').textContent = posts.length;
+    const phase = posts.length<=5 ? '1 · HOOKS' : posts.length<=10 ? '2 · TOPICS' : posts.length<15 ? '3 · CTA' : 'DONE · DECIDE';
+    document.getElementById('s-phase').textContent = phase;
+    document.getElementById('phase-hint').textContent = posts.length<15 ? ('Experiment phase: ' + phase + ' · ' + (15-posts.length) + ' posts to go') : 'Experiment complete — continue, pivot topic, or pivot format.';
+    // hooks list
+    const hl = document.getElementById('hooklist');
+    if (hl) hl.innerHTML = HOOKS.map((h,i)=>'<li style="margin-bottom:6px">'+h+'</li>').join('');
+    document.getElementById('hookcount').textContent = posts.length + ' posts logged';
+    // north star
+    const ns = cfg.ns || ('I help ' + (cfg.niche||'[who]') + ' get [result] without [pain], using ' + cfg.format + ', and I sell ' + cfg.product + '.');
+    const nsd = document.getElementById('ns-display');
+    if (nsd) nsd.textContent = ns;
+    // inputs
+    if (document.getElementById('in-niche')) {
+      document.getElementById('in-niche').value = cfg.niche||'';
+      document.getElementById('in-format').value = cfg.format||'A1';
+      document.getElementById('in-platform').value = cfg.platform||'YouTube Shorts';
+      document.getElementById('in-product').value = cfg.product||'C1';
+      document.getElementById('in-ns').value = cfg.ns||'';
+    }
+    // script names
+    const sn = document.getElementById('scriptnames');
+    if (sn) sn.innerHTML = SCRIPTS.map((s,i)=>'<div>'+(i+1)+'. '+s+'</div>').join('');
+    // table
+    const tb = document.querySelector('#tbl tbody');
+    if (tb) {
+      tb.innerHTML = posts.map((p,i)=>'<tr>'+
+        '<td>'+(i+1)+'</td>'+
+        '<td><input data-i="'+i+'" data-f="date" value="'+esc(p.date||'')+'" style="width:76px"></td>'+
+        '<td><input data-i="'+i+'" data-f="hook" value="'+esc(p.hook||'')+'" style="width:170px"></td>'+
+        '<td><input data-i="'+i+'" data-f="views" type="number" value="'+esc(p.views||'')+'" style="width:70px"></td>'+
+        '<td><input data-i="'+i+'" data-f="saves" type="number" value="'+esc(p.saves||'')+'" style="width:70px"></td>'+
+        '<td><input data-i="'+i+'" data-f="comments" type="number" value="'+esc(p.comments||'')+'" style="width:70px"></td>'+
+        '<td><input data-i="'+i+'" data-f="notes" value="'+esc(p.notes||'')+'" style="width:140px"></td>'+
+        '<td><button class="btn ghost small" onclick="delRow('+i+')">x</button></td>'+
+      '</tr>').join('');
+      tb.querySelectorAll('input').forEach(inp=>inp.addEventListener('input',()=>{
+        const i=+inp.dataset.i, f=inp.dataset.f;
+        posts[i][f] = inp.value;
+        ls.set(K.posts, posts);
+        render();
+      }));
+    }
+  }
+  function esc(s){ return String(s||'').replace(/"/g,'&quot;'); }
+  function addRow(){ posts.push({date:'',hook:'',views:'',saves:'',comments:'',notes:''}); ls.set(K.posts,posts); render(); }
+  function delRow(i){ posts.splice(i,1); ls.set(K.posts,posts); render(); }
+  function exportCsv(){
+    const rows = [['#','date','hook','views','saves','comments','notes'],
+      ...posts.map((p,i)=>[i+1,p.date,p.hook,p.views,p.saves,p.comments,p.notes])];
+    const csv = rows.map(r=>r.map(x=>'"'+String(x||'').replace(/"/g,'""')+'"').join(',')).join('\n');
+    const a=document.createElement('a');
+    a.href=URL.createObjectURL(new Blob([csv],{type:'text/csv'}));
+    a.download='content-studio-posts.csv'; a.click();
+  }
+  function saveSettings(){
+    cfg.niche=document.getElementById('in-niche').value;
+    cfg.format=document.getElementById('in-format').value;
+    cfg.platform=document.getElementById('in-platform').value;
+    cfg.product=document.getElementById('in-product').value;
+    cfg.ns=document.getElementById('in-ns').value;
+    ls.set(K.cfg,cfg);
+    render();
+    go('home');
+  }
+  function resetData(){ if(confirm('Reset all posts and settings?')){ localStorage.removeItem(K.posts); localStorage.removeItem(K.cfg); posts=[]; cfg={}; render(); } }
+  function newHook(){
+    const used = posts.map(p=>p.hook).filter(Boolean);
+    let pool = HOOKS.filter(h=>!used.includes(h));
+    if(!pool.length) pool = HOOKS;
+    document.getElementById('hookbox').textContent = pool[Math.floor(Math.random()*pool.length)];
+  }
+  function copyHook(){ const t=document.getElementById('hookbox').textContent; if(navigator.clipboard) navigator.clipboard.writeText(t); }
+  function newScript(){ document.getElementById('scriptpick').textContent = SCRIPTS[Math.floor(Math.random()*SCRIPTS.length)] + ' — full script in scripts/scripts-10.md'; }
+
+  // deep-link
+  const h = (location.hash||'').replace('#','');
+  if (h && document.querySelector('.tab[data-t="'+h+'"]')) go(h); else go('home');
+  render();
+</script>
+</body>
+</html>
