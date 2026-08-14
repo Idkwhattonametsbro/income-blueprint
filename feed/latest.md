@@ -5,7 +5,7 @@
 ---
 
 ## HOOK (first second, no intro)
-Your phone is the problem. Here's the 3-tab setup that fixes it.
+How broke students actually get organized (no course, no app).
 
 ## SCRIPT (40-55s voice-over)
 You don't need Notion. You don't need a 47-step productivity guru system.
@@ -18,10 +18,10 @@ One notebook, one pen, one page a day:
 Cost: about 20 cents a week. The students who pass aren't more disciplined - they have a system small enough to keep.
 
 ## TITLE
-How broke students get organized (no course, no app)
+The one-page system that replaces productivity apps
 
 ## CAPTION
-The 1-3-5 rule: one big, three medium, five small. Finish the 1 and the 3 and the day is a win. Save this for tomorrow morning.
+Boring systems survive. Exciting ones die by Thursday. This is the boring one that works. Follow for the whole system.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
