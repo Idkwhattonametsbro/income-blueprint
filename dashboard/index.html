@@ -58,6 +58,14 @@
   <section class="panel on" id="p-video">
     <div id="v-loading" class="loading">Loading today's video pack...</div>
     <div id="v-content" style="display:none"></div>
+    <div id="v-video" style="display:none; margin-top:8px">
+      <div class="card">
+        <h2>TODAY'S VIDEO — READY TO POST</h2>
+        <video id="v-vid" controls playsinline style="width:min(320px,100%);border-radius:16px;box-shadow:0 8px 24px rgba(28,25,23,.12)"></video>
+        <div style="margin-top:12px"><a class="link" id="v-dl" href="#" download style="background:linear-gradient(135deg,#FB923C,#EA580C);color:#fff;padding:12px 22px;border-radius:12px;font-weight:800;display:inline-block">⬇ DOWNLOAD MP4</a></div>
+        <div class="meta">Text is timed to the voiceover — upload directly to YouTube Shorts / TikTok. No editing needed.</div>
+      </div>
+    </div>
     <div id="v-archive" style="display:none; margin-top:8px"><div class="card"><h2>Previous days</h2><div id="v-days"></div></div></div>
   </section>
 
@@ -96,6 +104,13 @@
 
   async function loadVideo(){
     try {
+      try {
+        const v = document.getElementById('v-vid');
+        const dl = document.getElementById('v-dl');
+        v.src = '../feed-video/latest_short.mp4?t=' + Date.now();
+        dl.href = '../feed-video/latest_short.mp4';
+        document.getElementById('v-video').style.display = 'block';
+      } catch(e){}
       const md = await get('../feed/latest.md');
       document.getElementById('v-content').innerHTML = renderSections(md, 'v');
       document.getElementById('v-content').style.display='block';

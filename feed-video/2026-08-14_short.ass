@@ -1,0 +1,17 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Big,Inter,84,&H003F3A34,&H00000000,&H00FFFFFF,&H96000000,1,4,2,5,80,80,420,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:04.80,Big,,0,0,0,,{\fad(250,250)}Your week is a mess because you have no system - here's the 5-minute fix.
+Dialogue: 0,0:00:05.30,0:00:09.16,Big,,0,0,0,,{\fad(250,250)}The 2-2-2 rule: the cheapest way to get a calmer week.
+Dialogue: 0,0:00:09.66,0:00:14.16,Big,,0,0,0,,{\fad(250,250)}Two hours a week for yourself. No work, no phone. Boring is fine.
+Dialogue: 0,0:00:14.66,0:00:19.16,Big,,0,0,0,,{\fad(250,250)}Two hours for one person who matters to you. Coffee, walk, call.
+Dialogue: 0,0:00:19.66,0:00:24.16,Big,,0,0,0,,{\fad(250,250)}Two hours for future you - one small thing that makes next week easier.
+Dialogue: 0,0:00:24.66,0:00:28.73,Big,,0,0,0,,{\fad(250,250)}That's 6 hours out of 168. You can afford it, even broke.
