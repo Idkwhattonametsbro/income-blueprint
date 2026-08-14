@@ -5,31 +5,31 @@
 ---
 
 ## HOOK (first second, no intro)
-The 1-3-5 rule explained in 30 seconds.
+You don't need a new app. You need a shutdown ritual.
 
 ## SCRIPT (40-55s voice-over)
-Every habit system assumes you have time, energy, and a clean desk.
-Broke, tired, and overwhelmed is a different game.
+The 1-3-5 rule: one big thing, three medium things, five small things. That's a realistic day.
 
-Smaller than you think: 3 tasks, 10-minute evening, one page.
-Slower than you want: one habit at a time, two weeks minimum.
+Big = takes real focus, moves your life. Medium = about 30 minutes. Small = quick wins.
 
-Boring is the point. Boring systems survive. Exciting ones die by Thursday.
+If you finish the 1 and the 3, the day was a win. The 5 are just gravy.
+
+Your list isn't a promise - it's a menu. Pick what fits the day.
 
 ## TITLE
-The shutdown ritual that ends your day properly
+The 10-minute evening that makes tomorrow effortless
 
 ## CAPTION
-The 1-3-5 rule: one big, three medium, five small. Finish the 1 and the 3 and the day is a win. Save this for tomorrow morning.
+Your week doesn't need more apps. It needs one page. Save this for Sunday night - and grab the free template from the link in bio.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
+Save this for Sunday night. Free template in the link in bio.
 
 ## THUMBNAIL IDEA
-Calendar close-up, one circle drawn around Sunday, text: '15 MIN SUNDAY.'
+Phone screenshot of a clean 3-task list, big text: '3 THINGS ONLY.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
