@@ -132,7 +132,10 @@
       const md = await get('../feed-etsy/latest.md');
       document.getElementById('e-content').innerHTML =
         renderSections(md, 'e') +
-        `<div class="card"><h2>PRODUCT FILE (open → screenshot / print-to-PDF → upload)</h2>
+        `<div class="card"><h2>PRODUCT COVER (listing image — upload to Etsy)</h2>
+         <img src="../feed-etsy/cover_latest.png?t=${Date.now()}" style="width:100%;max-width:380px;border-radius:14px;border:1px solid var(--line)" alt="Product cover">
+         <div class="meta">Right-click → save image, or open in a new tab. This is your Etsy listing image.</div></div>` +
+        `<div class="card"><h2>PRODUCT FILE (open → print-to-PDF → upload as the download)</h2>
          <a class="link" href="../feed-etsy/product_latest.html" target="_blank">Open today's product file ↗</a></div>`;
       document.getElementById('e-content').style.display='block';
       document.getElementById('e-loading').style.display='none';

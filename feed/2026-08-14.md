@@ -5,22 +5,22 @@
 ---
 
 ## HOOK (first second, no intro)
-How broke students actually get organized (no course, no app).
+Your phone is the problem. Here's the 3-tab setup that fixes it.
 
 ## SCRIPT (40-55s voice-over)
-The 1-3-5 rule: one big thing, three medium things, five small things. That's a realistic day.
+The 2-2-2 rule: the cheapest way to get a calmer week.
 
-Big = takes real focus, moves your life. Medium = about 30 minutes. Small = quick wins.
+Two hours a week for yourself. No work, no phone. Boring is fine.
+Two hours for one person who matters to you. Coffee, walk, call.
+Two hours for future you - one small thing that makes next week easier.
 
-If you finish the 1 and the 3, the day was a win. The 5 are just gravy.
-
-Your list isn't a promise - it's a menu. Pick what fits the day.
+That's 6 hours out of 168. You can afford it, even broke.
 
 ## TITLE
-The 10-minute evening that makes tomorrow effortless
+The 15-minute Sunday ritual that fixes your week
 
 ## CAPTION
-Six hours out of 168. That's all the 2-2-2 rule costs - and it buys you a calmer week. Which 2 are you taking first?
+Apps add features. This system subtracts. One page is easier to keep than any app. Link in bio for the free template.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
@@ -29,7 +29,7 @@ Six hours out of 168. That's all the 2-2-2 rule costs - and it buys you a calmer
 The free one-page reset is in the link in bio. Want the whole 8-page Calm Week System? It's live now.
 
 ## THUMBNAIL IDEA
-Two-column visual: messy brain vs one page, text: 'BRAIN DUMP FIRST.'
+Calendar close-up, one circle drawn around Sunday, text: '15 MIN SUNDAY.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok

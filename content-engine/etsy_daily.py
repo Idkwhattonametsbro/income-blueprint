@@ -23,6 +23,9 @@ from email.mime.text import MIMEText
 from email.utils import formataddr
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from product_assets import PRODUCT_PAGES_V2, render_cover
+
 ROOT = Path(__file__).resolve().parent.parent
 FEED = ROOT / "feed-etsy"
 
@@ -418,11 +421,18 @@ def main():
     (FEED / f"{date}.md").write_text(md, encoding="utf-8")
     (FEED / "latest.md").write_text(md, encoding="utf-8")
 
-    # product file
+    # product file (premium design) + cover image
     fkey = product.get("file_key") or "budget"
-    page = PRODUCT_PAGES.get(fkey, PRODUCT_PAGES["budget"])
+    page_fn = PRODUCT_PAGES_V2.get(fkey, PRODUCT_PAGES_V2["budget"])
+    page = page_fn()
     (FEED / f"product_{date}.html").write_text(page, encoding="utf-8")
     (FEED / "product_latest.html").write_text(page, encoding="utf-8")
+    try:
+        render_cover(product.get("name", "Calm Week System"), product.get("why", ""), FEED / "cover_latest.png")
+        (FEED / f"cover_{date}.png").write_bytes((FEED / "cover_latest.png").read_bytes())
+        print("[Engine] Cover image rendered (cover_latest.png)")
+    except Exception as e:
+        print(f"[Engine] Cover render skipped: {e}")
 
     hist_path = FEED / "history.json"
     hist = []

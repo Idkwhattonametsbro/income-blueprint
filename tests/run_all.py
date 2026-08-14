@@ -232,6 +232,52 @@ class TestSubprocess(unittest.TestCase):
             self.assertEqual(r.returncode, 0, f"{f} failed compile")
 
 
+class TestPremium(unittest.TestCase):
+    def test_22_video_has_streams_and_voice(self):
+        # build a short video and verify streams + duration
+        import subprocess, sys, tempfile, shutil
+        from pathlib import Path
+        sys.path.insert(0, str(ROOT / "content-engine"))
+        import video_v2
+        tmp = Path(tempfile.mkdtemp(prefix="nexvidt_"))
+        try:
+            lines = [("HOOK", "This is the hook line for testing."),
+                     ("STEP 1", "The first step is simple and clear.")]
+            timeline = [("HOOK", lines[0][1], 0.5, 5.0), ("STEP 1", lines[1][1], 5.3, 9.5)]
+            out = tmp / "t.mp4"
+            video_v2.render(lines, [None, None], timeline, None, out, tmp)
+            r = subprocess.run(["ffmpeg", "-i", str(out)], capture_output=True, text=True)
+            info = r.stderr
+            self.assertIn("Video: h264", info)
+            self.assertIn("Audio: aac", info)
+            dur = re.search(r"Duration:\s*(\d+):(\d+):([\d.]+)", info)
+            self.assertIsNotNone(dur)
+            secs = int(dur.group(1))*3600 + int(dur.group(2))*60 + float(dur.group(3))
+            self.assertGreater(secs, 8)
+        finally:
+            shutil.rmtree(tmp, ignore_errors=True)
+
+    def test_23_cover_png_renders(self):
+        from pathlib import Path
+        import sys
+        sys.path.insert(0, str(ROOT / "content-engine"))
+        import tempfile
+        from product_assets import render_cover
+        with tempfile.TemporaryDirectory() as td:
+            out = Path(td) / "c.png"
+            render_cover("Weekly Budget Tracker", "printable planner", out)
+            self.assertTrue(out.exists())
+            self.assertGreater(out.stat().st_size, 50000)
+
+    def test_24_product_page_is_premium(self):
+        import sys
+        sys.path.insert(0, str(ROOT / "content-engine"))
+        from product_assets import weekly_reset, habit_tracker
+        html = weekly_reset() + habit_tracker()
+        for marker in ("Calm Week System", "linear-gradient", "border-radius", "card"):
+            self.assertIn(marker, html)
+
+
 class TestDashboard(unittest.TestCase):
     def test_19_dashboard_exists_and_references_feeds(self):
         dash = (ROOT / "dashboard" / "index.html").read_text(encoding="utf-8")

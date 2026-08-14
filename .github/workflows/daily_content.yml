@@ -41,13 +41,14 @@ jobs:
         run: |
           python content-engine/generate_daily.py
 
-      - name: Install FFmpeg
+      - name: Install FFmpeg + Voiceover
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install edge-tts numpy
 
-      - name: Build Today's Video
+      - name: Build Today's Video (premium: voiceover + music + captions)
         run: |
-          python content-engine/build_video.py
+          python content-engine/video_v2.py
 
       - name: Commit Today's Pack
         run: |
