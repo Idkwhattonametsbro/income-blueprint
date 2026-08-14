@@ -8,28 +8,29 @@
 Your week is a mess because you have no system - here's the 5-minute fix.
 
 ## SCRIPT (40-55s voice-over)
-The 2-2-2 rule: the cheapest way to get a calmer week.
+You don't need Notion. You don't need a 47-step productivity guru system.
 
-Two hours a week for yourself. No work, no phone. Boring is fine.
-Two hours for one person who matters to you. Coffee, walk, call.
-Two hours for future you - one small thing that makes next week easier.
+One notebook, one pen, one page a day:
+- Top: today's 3.
+- Middle: the deadline that scares you.
+- Bottom: one line you're grateful for.
 
-That's 6 hours out of 168. You can afford it, even broke.
+Cost: about 20 cents a week. The students who pass aren't more disciplined - they have a system small enough to keep.
 
 ## TITLE
-The one-page system that replaces productivity apps
+The 1-3-5 rule for a realistic day
 
 ## CAPTION
-Ten minutes tonight. Four moves. Tomorrow starts already winning. Save this so you remember at bedtime.
+Boring systems survive. Exciting ones die by Thursday. This is the boring one that works. Follow for the whole system.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-The free one-page reset is in the link in bio. Want the whole 8-page Calm Week System? It's live now.
+Save this for Sunday night. Free template in the link in bio.
 
 ## THUMBNAIL IDEA
-Phone screenshot of a clean 3-task list, big text: '3 THINGS ONLY.'
+Two-column visual: messy brain vs one page, text: 'BRAIN DUMP FIRST.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
