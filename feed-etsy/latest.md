@@ -5,19 +5,19 @@
 ---
 
 ## PRODUCT
-Digital Sticker Pack (Planner Decor)
+Minimal Budget Tracker Printable
 
 ## WHY IT SELLS
-Digital stickers for GoodNotes/Notability are a growing niche with repeat buyers.
+Budget trackers are perennial Etsy bestsellers - high buyer intent, impulse-priced, no inventory.
 
 ## LISTING TITLE (140 chars max)
-Digital Sticker Pack (Planner Decor) | Minimal Printable | A4 Digital Download PDF
+Minimal Budget Tracker Printable | Minimal Printable | A4 Digital Download PDF
 
 ## 13 TAGS
 digital download, printable, planner, template, pdf, minimal, organizer, budget, habits, a4, printable planner, instant download, gift for students
 
 ## DESCRIPTION (premium, no hype)
-Digital Sticker Pack (Planner Decor)
+Minimal Budget Tracker Printable
 
 WHAT'S INSIDE
 • One clean page, ready to print
@@ -25,7 +25,7 @@ WHAT'S INSIDE
 • Print as many copies as you need
 
 WHY IT WORKS
-Digital stickers for GoodNotes/Notability are a growing niche with repeat buyers.
+Budget trackers are perennial Etsy bestsellers - high buyer intent, impulse-priced, no inventory.
 
 DETAILS
 • Instant digital download - nothing ships
@@ -36,10 +36,10 @@ DETAILS
 NOTE: This is a digital download. No physical item will be shipped.
 
 ## PRICE
-$3 USD
+$5 USD
 
 ## IMAGE BRIEF (for your listing mockup)
-Flat-lay mockup of the printed page on a cream background, warm orange accent, big readable title 'Digital Sticker Pack (Planner Decor)'.
+Flat-lay mockup of the printed page on a cream background, warm orange accent, big readable title 'Minimal Budget Tracker Printable'.
 
 ## PRODUCT FILE
 See `product_2026-08-14.html` next to this file - open it, screenshot or print-to-PDF, and use it as the listing's product image and download.

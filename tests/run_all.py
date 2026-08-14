@@ -241,10 +241,12 @@ class TestPremium(unittest.TestCase):
         import video_v2
         tmp = Path(tempfile.mkdtemp(prefix="nexvidt_"))
         try:
-            timeline = [("hook", "This is the hook line for testing.", 0.5, 5.0),
-                        ("line", "The first step is simple and clear.", 5.3, 9.5)]
+            scenes = [("hook", "This is the hook line for testing."),
+                      ("line", "The first step is simple and clear.")]
+            starts = [0.5, 4.5]
+            ends = [4.2, 8.2]
             out = tmp / "t.mp4"
-            video_v2.render(timeline, [None, None], out, tmp)
+            video_v2.render(scenes, starts, ends, [None, None], out, tmp)
             r = subprocess.run(["ffmpeg", "-i", str(out)], capture_output=True, text=True)
             info = r.stderr
             self.assertIn("Video: h264", info)
