@@ -5,23 +5,22 @@
 ---
 
 ## HOOK (first second, no intro)
-How broke students actually get organized (no course, no app).
+You don't need a new app. You need a shutdown ritual.
 
 ## SCRIPT (40-55s voice-over)
-You don't need Notion. You don't need a 47-step productivity guru system.
+Every habit system assumes you have time, energy, and a clean desk.
+Broke, tired, and overwhelmed is a different game.
 
-One notebook, one pen, one page a day:
-- Top: today's 3.
-- Middle: the deadline that scares you.
-- Bottom: one line you're grateful for.
+Smaller than you think: 3 tasks, 10-minute evening, one page.
+Slower than you want: one habit at a time, two weeks minimum.
 
-Cost: about 20 cents a week. The students who pass aren't more disciplined - they have a system small enough to keep.
+Boring is the point. Boring systems survive. Exciting ones die by Thursday.
 
 ## TITLE
-The one-page system that replaces productivity apps
+The 10-minute evening that makes tomorrow effortless
 
 ## CAPTION
-Boring systems survive. Exciting ones die by Thursday. This is the boring one that works. Follow for the whole system.
+Six hours out of 168. That's all the 2-2-2 rule costs - and it buys you a calmer week. Which 2 are you taking first?
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
