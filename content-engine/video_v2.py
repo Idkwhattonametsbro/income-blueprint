@@ -301,7 +301,19 @@ def main():
             starts.append(t)
             ends.append(t + d)
             t = t + d + 0.35
-        print(f"[Video] voiceover: {'ON' if any_voice else 'off'} · scenes: {len(scenes)} · sync: audio-driven")
+        # HARD CAP: Shorts limit is 60s - trim scenes to fit ~55s
+        MAX_TOTAL = 55.0
+        while t > MAX_TOTAL and len(scenes) > 2:
+            scenes.pop()
+            audios.pop()
+            durs.pop()
+            starts, ends = [], []
+            t = 0.6
+            for i, d in enumerate(durs):
+                starts.append(t)
+                ends.append(t + d)
+                t = t + d + 0.35
+        print(f"[Video] voiceover: {'ON' if any_voice else 'off'} · scenes: {len(scenes)} · sync: audio-driven · total: {t:.1f}s")
         out = FEED / f"{date}_short.mp4"
         render(scenes, starts, ends, audios, out, tmpdir)
         (FEED / f"{date}_short.html").write_text(html_preview(out.name), encoding="utf-8")
