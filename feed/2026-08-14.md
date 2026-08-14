@@ -8,28 +8,29 @@
 Your phone is the problem. Here's the 3-tab setup that fixes it.
 
 ## SCRIPT (40-55s voice-over)
-The 2-2-2 rule: the cheapest way to get a calmer week.
+You don't need Notion. You don't need a 47-step productivity guru system.
 
-Two hours a week for yourself. No work, no phone. Boring is fine.
-Two hours for one person who matters to you. Coffee, walk, call.
-Two hours for future you - one small thing that makes next week easier.
+One notebook, one pen, one page a day:
+- Top: today's 3.
+- Middle: the deadline that scares you.
+- Bottom: one line you're grateful for.
 
-That's 6 hours out of 168. You can afford it, even broke.
+Cost: about 20 cents a week. The students who pass aren't more disciplined - they have a system small enough to keep.
 
 ## TITLE
-The 15-minute Sunday ritual that fixes your week
+How broke students get organized (no course, no app)
 
 ## CAPTION
-Apps add features. This system subtracts. One page is easier to keep than any app. Link in bio for the free template.
+The 1-3-5 rule: one big, three medium, five small. Finish the 1 and the 3 and the day is a win. Save this for tomorrow morning.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-The free one-page reset is in the link in bio. Want the whole 8-page Calm Week System? It's live now.
+Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
 
 ## THUMBNAIL IDEA
-Calendar close-up, one circle drawn around Sunday, text: '15 MIN SUNDAY.'
+Notebook + pen flat-lay, text: 'NO APP NEEDED.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
