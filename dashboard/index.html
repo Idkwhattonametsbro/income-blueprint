@@ -8,49 +8,74 @@
   :root { --bg:#F6F5F2; --card:#fff; --line:#EBE4D8; --ink:#3F3A34; --mut:#8A8378; --acc:#F97316; --acc2:#EA580C; }
   * { box-sizing:border-box; margin:0; padding:0; }
   body { font-family: Inter, system-ui, sans-serif; background:var(--bg); color:var(--ink); padding-bottom:60px; }
-  header { background:#fff; border-bottom:1px solid var(--line); padding:16px 18px; display:flex; align-items:center; gap:12px; position:sticky; top:0; z-index:10; }
+  header { background:#fff; border-bottom:1px solid var(--line); padding:14px 18px; display:flex; align-items:center; gap:12px; position:sticky; top:0; z-index:20; flex-wrap:wrap; }
   .logo { width:36px; height:36px; border-radius:11px; background:linear-gradient(135deg,#FB923C,#EA580C); color:#fff; display:flex; align-items:center; justify-content:center; font-weight:800; }
-  header h1 { font-size:16px; }
-  header .sub { font-size:11px; color:var(--mut); }
-  main { max-width:640px; margin:0 auto; padding:18px 14px; }
-  .banner { background:linear-gradient(135deg,#FFF7ED,#FFEDD5); border:1px solid #FED7AA; border-radius:14px; padding:14px 16px; margin-bottom:16px; }
-  .banner b { color:var(--acc2); }
-  .banner p { font-size:12.5px; line-height:1.6; color:#6B4A1B; }
+  header h1 { font-size:16px; } header .sub { font-size:11px; color:var(--mut); }
+  main { max-width:660px; margin:0 auto; padding:18px 14px; }
+  .tabs { display:flex; gap:6px; margin-left:auto; }
+  .tab { background:#fff; border:1px solid var(--line); border-radius:10px; padding:8px 14px; font-size:11px; font-weight:700; cursor:pointer; color:var(--mut); }
+  .tab.on { background:linear-gradient(135deg,#FB923C,#EA580C); color:#fff; border-color:transparent; }
+  .panel { display:none; } .panel.on { display:block; }
+  .banner { background:linear-gradient(135deg,#FFF7ED,#FFEDD5); border:1px solid #FED7AA; border-radius:14px; padding:13px 16px; margin-bottom:14px; }
+  .banner b { color:var(--acc2); } .banner p { font-size:12.5px; line-height:1.6; color:#6B4A1B; }
+  .genbar { display:flex; gap:8px; align-items:center; margin-bottom:14px; flex-wrap:wrap; }
+  .gen { background:linear-gradient(135deg,#FB923C,#EA580C); color:#fff; border:none; border-radius:12px; padding:12px 20px; font-size:12.5px; font-weight:800; cursor:pointer; }
+  .gen:disabled { opacity:.5; cursor:wait; }
+  .genstatus { font-size:11px; color:var(--mut); }
   .card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:16px; margin-bottom:12px; }
   .card h2 { font-size:11px; letter-spacing:.12em; color:var(--acc2); margin-bottom:8px; text-transform:uppercase; }
   .card .content { font-size:14px; line-height:1.65; white-space:pre-wrap; word-break:break-word; }
-  .card .content b { color:var(--ink); }
-  .copy { margin-top:10px; background:#fff; border:1px solid var(--line); border-radius:9px; padding:7px 14px; font-size:11px; font-weight:700; color:var(--ink); cursor:pointer; }
+  .copy { margin-top:10px; background:#fff; border:1px solid var(--line); border-radius:9px; padding:7px 14px; font-size:11px; font-weight:700; cursor:pointer; }
   .copy:hover { border-color:var(--acc); color:var(--acc2); }
   .copyall { background:linear-gradient(135deg,#FB923C,#EA580C); color:#fff !important; border:none; }
   .meta { font-size:11px; color:var(--mut); margin-top:8px; }
   .day { border:1px solid var(--line); border-radius:10px; padding:8px 12px; font-size:12px; margin-bottom:6px; display:flex; justify-content:space-between; align-items:center; color:var(--mut); }
   .day.on { background:#FFF7ED; border-color:#FED7AA; color:var(--acc2); font-weight:700; }
   .loading { text-align:center; padding:40px 0; color:var(--mut); font-size:13px; }
+  .link { color:var(--acc2); text-decoration:none; font-weight:600; }
 </style>
 </head>
 <body>
 <header>
   <div class="logo">N</div>
-  <div><h1>NEXUS DAILY CONTENT</h1><div class="sub">Your publish-ready post pack · copy · post · done</div></div>
+  <div><h1>NEXUS DAILY CONTENT</h1><div class="sub">Video pack + Etsy product pack · copy · post · done</div></div>
+  <div class="tabs">
+    <button class="tab on" data-t="video">VIDEO PACK</button>
+    <button class="tab" data-t="etsy">ETSY PACK</button>
+  </div>
 </header>
 <main>
   <div class="banner">
-    <b>How this works:</b>
-    <p>Every morning a new post pack appears here (and lands in your Gmail if configured). Copy each section, paste into your editor, record, upload. 10–15 minutes total. You never touch the repo.</p>
+    <b>Your daily machine:</b>
+    <p>Every morning at 06:00 both packs are generated automatically (and emailed to you if configured). Don't like today's? Hit <b>GENERATE NOW</b> below for a fresh one instantly. Copy each section, paste, post. You never touch the repo.</p>
   </div>
-  <div id="loading" class="loading">Loading today's pack...</div>
-  <div id="content" style="display:none"></div>
-  <div id="archive" style="display:none; margin-top:8px">
-    <div class="card"><h2>Previous days</h2><div id="daylist"></div></div>
+  <div class="genbar">
+    <button class="gen" id="genbtn">GENERATE NOW</button>
+    <span class="genstatus" id="genstatus"></span>
   </div>
+
+  <!-- VIDEO -->
+  <section class="panel on" id="p-video">
+    <div id="v-loading" class="loading">Loading today's video pack...</div>
+    <div id="v-content" style="display:none"></div>
+    <div id="v-archive" style="display:none; margin-top:8px"><div class="card"><h2>Previous days</h2><div id="v-days"></div></div></div>
+  </section>
+
+  <!-- ETSY -->
+  <section class="panel" id="p-etsy">
+    <div id="e-loading" class="loading">Loading today's Etsy pack...</div>
+    <div id="e-content" style="display:none"></div>
+    <div id="e-archive" style="display:none; margin-top:8px"><div class="card"><h2>Previous days</h2><div id="e-days"></div></div></div>
+  </section>
 </main>
 <script>
-  const BASE = '../feed/';
-  async function get(url){ const r = await fetch(url, { cache: 'no-store' }); if(!r.ok) throw new Error('HTTP '+r.status); return r.text(); }
+  const REPO = 'Idkwhattonametsbro/income-blueprint';
+  const API = 'https://api.github.com/repos/' + REPO;
+  const TOKEN_KEY = 'nexus_gen_token';
 
-  function renderMarkdown(md){
-    // split by ## sections
+  function esc(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+  function renderSections(md, prefix){
     const lines = md.split('\n');
     const sections = [];
     let cur = null;
@@ -59,45 +84,118 @@
       if (m){ cur = { title: m[1].trim(), body: [] }; sections.push(cur); }
       else if (cur) cur.body.push(l);
     }
-    return sections.map(s => {
+    const html = sections.map(s => {
       const body = s.body.join('\n').trim();
       return `<div class="card"><h2>${esc(s.title)}</h2><div class="content">${esc(body)}</div>
         <button class="copy" data-t="${esc(body)}">Copy</button></div>`;
     }).join('');
+    return html + `<button class="copy copyall" data-t="${esc(md)}">COPY ENTIRE PACK</button>`;
   }
 
-  function esc(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+  async function get(url){ const r = await fetch(url, { cache: 'no-store' }); if(!r.ok) throw new Error('HTTP '+r.status); return r.text(); }
 
-  async function load(){
+  async function loadVideo(){
     try {
-      const md = await get('latest.md');
-      document.getElementById('content').innerHTML =
-        renderMarkdown(md) +
-        `<button class="copy copyall" data-t="${esc(md)}">COPY ENTIRE PACK</button>`;
-      document.getElementById('content').style.display = 'block';
-      document.getElementById('loading').style.display = 'none';
-      document.querySelectorAll('.copy').forEach(b => b.addEventListener('click', () => {
-        const t = b.dataset.t;
-        if (navigator.clipboard) navigator.clipboard.writeText(t);
-        b.textContent = 'Copied ✓';
-        setTimeout(() => b.textContent = 'Copy', 1500);
-      }));
-      // archive
+      const md = await get('../feed/latest.md');
+      document.getElementById('v-content').innerHTML = renderSections(md, 'v');
+      document.getElementById('v-content').style.display='block';
+      document.getElementById('v-loading').style.display='none';
       try {
-        const hist = JSON.parse(await get('history.json'));
-        if (hist && hist.length){
+        const hist = JSON.parse(await get('../feed/history.json'));
+        if (hist.length){
           const today = hist[hist.length-1];
-          document.getElementById('daylist').innerHTML = hist.slice().reverse().map(d =>
-            `<div class="day ${d===today?'on':''}"><span>${d}</span><a href="${BASE}${d}.md" style="color:var(--acc2);text-decoration:none;font-weight:600">view</a></div>`
-          ).join('');
-          document.getElementById('archive').style.display = 'block';
+          document.getElementById('v-days').innerHTML = hist.slice().reverse().map(d =>
+            `<div class="day ${d===today?'on':''}"><span>${d}</span><a class="link" href="../feed/${d}.md">view</a></div>`).join('');
+          document.getElementById('v-archive').style.display='block';
         }
       } catch(e){}
+    } catch(e){ document.getElementById('v-loading').textContent = 'No video pack yet - the engine generates daily at 06:00, or hit GENERATE NOW.'; }
+  }
+
+  async function loadEtsy(){
+    try {
+      const md = await get('../feed-etsy/latest.md');
+      document.getElementById('e-content').innerHTML =
+        renderSections(md, 'e') +
+        `<div class="card"><h2>PRODUCT FILE (open → screenshot / print-to-PDF → upload)</h2>
+         <a class="link" href="../feed-etsy/product_latest.html" target="_blank">Open today's product file ↗</a></div>`;
+      document.getElementById('e-content').style.display='block';
+      document.getElementById('e-loading').style.display='none';
+      try {
+        const hist = JSON.parse(await get('../feed-etsy/history.json'));
+        if (hist.length){
+          const today = hist[hist.length-1];
+          document.getElementById('e-days').innerHTML = hist.slice().reverse().map(d =>
+            `<div class="day ${d===today?'on':''}"><span>${d}</span><a class="link" href="../feed-etsy/${d}.md">view</a></div>`).join('');
+          document.getElementById('e-archive').style.display='block';
+        }
+      } catch(e){}
+    } catch(e){ document.getElementById('e-loading').textContent = 'No Etsy pack yet - the engine generates daily at 06:00, or hit GENERATE NOW.'; }
+  }
+
+  async function generateNow(){
+    const btn = document.getElementById('genbtn');
+    const status = document.getElementById('genstatus');
+    let token = '';
+    try { token = localStorage.getItem(TOKEN_KEY) || ''; } catch(e){}
+    if (!token){
+      token = prompt('To generate instantly, paste a GitHub fine-grained token (Actions: read/write, this repo only). It is stored only in this browser.\nCreate one: github.com/settings/personal-access-tokens');
+      if (!token) return;
+      try { localStorage.setItem(TOKEN_KEY, token); } catch(e){}
+    }
+    btn.disabled = true;
+    status.textContent = 'Dispatching both engines...';
+    try {
+      const wfs = ['daily_content.yml', 'etsy_daily.yml'];
+      for (const wf of wfs){
+        const r = await fetch(API + '/actions/workflows/' + wf + '/dispatches', {
+          method: 'POST',
+          headers: { 'Authorization': 'Bearer ' + token, 'Accept': 'application/vnd.github+json', 'Content-Type': 'application/json' },
+          body: JSON.stringify({ ref: 'main' })
+        });
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+      }
+      status.textContent = 'Running... this takes ~1 minute.';
+      // poll for the newest run of either workflow to finish
+      for (let i = 0; i < 12; i++){
+        await new Promise(r => setTimeout(r, 5000));
+        const rr = await fetch(API + '/actions/runs?per_page=3', { headers: { 'Authorization': 'Bearer ' + token, 'Accept': 'application/vnd.github+json' } });
+        const dd = await rr.json();
+        const runs = dd.workflow_runs || [];
+        if (runs.length && runs.every(r => r.status === 'completed')){
+          status.textContent = 'Done ✓ refreshing packs...';
+          await loadVideo(); await loadEtsy();
+          status.textContent = 'Done ✓ fresh packs loaded.';
+          break;
+        } else {
+          status.textContent = 'Working... ' + (runs[0] ? runs[0].status : 'queued');
+        }
+      }
     } catch(e){
-      document.getElementById('loading').textContent = 'No pack yet. The engine runs daily — check back later, or trigger it from the repo Actions tab.';
+      status.textContent = 'Failed: ' + (e.message || e) + ' (token may need Actions read/write)';
+    } finally {
+      btn.disabled = false;
     }
   }
-  load();
+
+  // tabs
+  document.querySelectorAll('.tab').forEach(b => b.addEventListener('click', () => {
+    document.querySelectorAll('.tab').forEach(x => x.classList.remove('on'));
+    document.querySelectorAll('.panel').forEach(x => x.classList.remove('on'));
+    b.classList.add('on');
+    document.getElementById('p-' + b.dataset.t).classList.add('on');
+  }));
+  document.getElementById('genbtn').addEventListener('click', generateNow);
+  document.addEventListener('click', (e) => {
+    if (e.target.classList && e.target.classList.contains('copy')){
+      const t = e.target.dataset.t;
+      if (navigator.clipboard) navigator.clipboard.writeText(t);
+      e.target.textContent = 'Copied ✓';
+      setTimeout(() => e.target.textContent = 'Copy', 1500);
+    }
+  });
+
+  loadVideo(); loadEtsy();
 </script>
 </body>
 </html>
