@@ -5,29 +5,28 @@
 ---
 
 ## HOOK (first second, no intro)
-Your week is a mess because you have no system - here's the 5-minute fix.
+How broke students actually get organized (no course, no app).
 
 ## SCRIPT (40-55s voice-over)
-You don't need Notion. You don't need a 47-step productivity guru system.
+The 1-3-5 rule: one big thing, three medium things, five small things. That's a realistic day.
 
-One notebook, one pen, one page a day:
-- Top: today's 3.
-- Middle: the deadline that scares you.
-- Bottom: one line you're grateful for.
+Big = takes real focus, moves your life. Medium = about 30 minutes. Small = quick wins.
 
-Cost: about 20 cents a week. The students who pass aren't more disciplined - they have a system small enough to keep.
+If you finish the 1 and the 3, the day was a win. The 5 are just gravy.
+
+Your list isn't a promise - it's a menu. Pick what fits the day.
 
 ## TITLE
-The 1-3-5 rule for a realistic day
+The 10-minute evening that makes tomorrow effortless
 
 ## CAPTION
-Boring systems survive. Exciting ones die by Thursday. This is the boring one that works. Follow for the whole system.
+Six hours out of 168. That's all the 2-2-2 rule costs - and it buys you a calmer week. Which 2 are you taking first?
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-Save this for Sunday night. Free template in the link in bio.
+The free one-page reset is in the link in bio. Want the whole 8-page Calm Week System? It's live now.
 
 ## THUMBNAIL IDEA
 Two-column visual: messy brain vs one page, text: 'BRAIN DUMP FIRST.'
