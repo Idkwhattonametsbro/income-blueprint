@@ -1,0 +1,53 @@
+name: Daily Content Engine
+
+on:
+  schedule:
+    # 07:00 UTC ~ 08:00 Morocco (summer) / 08:00 Morocco (winter)
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: daily-content
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Configure Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Generate Today's Post Pack
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          python content-engine/generate_daily.py
+
+      - name: Commit Today's Pack
+        run: |
+          git config --global user.name "nexus-content"
+          git config --global user.email "content@users.noreply.github.com"
+          git add feed/
+          git status
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "content: daily post pack [skip ci]"
+          fi
+          git push || (git pull --rebase --autostash && git push)

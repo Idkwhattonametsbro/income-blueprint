@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nexus Daily Content</title>
+<style>
+  :root { --bg:#F6F5F2; --card:#fff; --line:#EBE4D8; --ink:#3F3A34; --mut:#8A8378; --acc:#F97316; --acc2:#EA580C; }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  body { font-family: Inter, system-ui, sans-serif; background:var(--bg); color:var(--ink); padding-bottom:60px; }
+  header { background:#fff; border-bottom:1px solid var(--line); padding:16px 18px; display:flex; align-items:center; gap:12px; position:sticky; top:0; z-index:10; }
+  .logo { width:36px; height:36px; border-radius:11px; background:linear-gradient(135deg,#FB923C,#EA580C); color:#fff; display:flex; align-items:center; justify-content:center; font-weight:800; }
+  header h1 { font-size:16px; }
+  header .sub { font-size:11px; color:var(--mut); }
+  main { max-width:640px; margin:0 auto; padding:18px 14px; }
+  .banner { background:linear-gradient(135deg,#FFF7ED,#FFEDD5); border:1px solid #FED7AA; border-radius:14px; padding:14px 16px; margin-bottom:16px; }
+  .banner b { color:var(--acc2); }
+  .banner p { font-size:12.5px; line-height:1.6; color:#6B4A1B; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:16px; margin-bottom:12px; }
+  .card h2 { font-size:11px; letter-spacing:.12em; color:var(--acc2); margin-bottom:8px; text-transform:uppercase; }
+  .card .content { font-size:14px; line-height:1.65; white-space:pre-wrap; word-break:break-word; }
+  .card .content b { color:var(--ink); }
+  .copy { margin-top:10px; background:#fff; border:1px solid var(--line); border-radius:9px; padding:7px 14px; font-size:11px; font-weight:700; color:var(--ink); cursor:pointer; }
+  .copy:hover { border-color:var(--acc); color:var(--acc2); }
+  .copyall { background:linear-gradient(135deg,#FB923C,#EA580C); color:#fff !important; border:none; }
+  .meta { font-size:11px; color:var(--mut); margin-top:8px; }
+  .day { border:1px solid var(--line); border-radius:10px; padding:8px 12px; font-size:12px; margin-bottom:6px; display:flex; justify-content:space-between; align-items:center; color:var(--mut); }
+  .day.on { background:#FFF7ED; border-color:#FED7AA; color:var(--acc2); font-weight:700; }
+  .loading { text-align:center; padding:40px 0; color:var(--mut); font-size:13px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="logo">N</div>
+  <div><h1>NEXUS DAILY CONTENT</h1><div class="sub">Your publish-ready post pack · copy · post · done</div></div>
+</header>
+<main>
+  <div class="banner">
+    <b>How this works:</b>
+    <p>Every morning a new post pack appears here (and lands in your Gmail if configured). Copy each section, paste into your editor, record, upload. 10–15 minutes total. You never touch the repo.</p>
+  </div>
+  <div id="loading" class="loading">Loading today's pack...</div>
+  <div id="content" style="display:none"></div>
+  <div id="archive" style="display:none; margin-top:8px">
+    <div class="card"><h2>Previous days</h2><div id="daylist"></div></div>
+  </div>
+</main>
+<script>
+  const BASE = '../feed/';
+  async function get(url){ const r = await fetch(url, { cache: 'no-store' }); if(!r.ok) throw new Error('HTTP '+r.status); return r.text(); }
+
+  function renderMarkdown(md){
+    // split by ## sections
+    const lines = md.split('\n');
+    const sections = [];
+    let cur = null;
+    for (const l of lines){
+      const m = l.match(/^##\s+(.*)$/);
+      if (m){ cur = { title: m[1].trim(), body: [] }; sections.push(cur); }
+      else if (cur) cur.body.push(l);
+    }
+    return sections.map(s => {
+      const body = s.body.join('\n').trim();
+      return `<div class="card"><h2>${esc(s.title)}</h2><div class="content">${esc(body)}</div>
+        <button class="copy" data-t="${esc(body)}">Copy</button></div>`;
+    }).join('');
+  }
+
+  function esc(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+  async function load(){
+    try {
+      const md = await get('latest.md');
+      document.getElementById('content').innerHTML =
+        renderMarkdown(md) +
+        `<button class="copy copyall" data-t="${esc(md)}">COPY ENTIRE PACK</button>`;
+      document.getElementById('content').style.display = 'block';
+      document.getElementById('loading').style.display = 'none';
+      document.querySelectorAll('.copy').forEach(b => b.addEventListener('click', () => {
+        const t = b.dataset.t;
+        if (navigator.clipboard) navigator.clipboard.writeText(t);
+        b.textContent = 'Copied ✓';
+        setTimeout(() => b.textContent = 'Copy', 1500);
+      }));
+      // archive
+      try {
+        const hist = JSON.parse(await get('history.json'));
+        if (hist && hist.length){
+          const today = hist[hist.length-1];
+          document.getElementById('daylist').innerHTML = hist.slice().reverse().map(d =>
+            `<div class="day ${d===today?'on':''}"><span>${d}</span><a href="${BASE}${d}.md" style="color:var(--acc2);text-decoration:none;font-weight:600">view</a></div>`
+          ).join('');
+          document.getElementById('archive').style.display = 'block';
+        }
+      } catch(e){}
+    } catch(e){
+      document.getElementById('loading').textContent = 'No pack yet. The engine runs daily — check back later, or trigger it from the repo Actions tab.';
+    }
+  }
+  load();
+</script>
+</body>
+</html>

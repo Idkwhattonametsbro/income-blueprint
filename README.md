@@ -34,6 +34,26 @@ income-blueprint/
 └── studio/index.html          ← Content Studio tool (open in browser)
 ```
 
+## THE DAILY CONTENT MACHINE (what you actually use)
+
+A scheduled engine generates a **publish-ready post pack every morning** and
+delivers it to two places — no repo visits, no decisions:
+
+1. **Dashboard (one link):** https://idkwhattonametsbro.github.io/income-blueprint/dashboard/
+   Open it in the morning → copy each section → record → upload. Done.
+2. **Gmail (optional, 10-min setup):** enable 2-Step Verification on your
+   Google account → create an App Password → add secrets `GMAIL_USER` and
+   `GMAIL_APP_PASSWORD` in repo Settings → Secrets → Actions. Every morning
+   the full pack arrives in your inbox instead.
+
+The engine runs on GitHub's free servers (daily at ~08:00 Morocco time) using
+`.github/workflows/daily_content.yml`. It works with ZERO API keys (built-in
+template banks); with a `GROQ_API_KEY` or `GEMINI_API_KEY` secret it generates
+fresh content every day with a human, professional tone (no AI-slop wording).
+
+What you get each day: HOOK + SCRIPT (40-55s) + TITLE + CAPTION + HASHTAGS +
+PIN COMMENT + THUMBNAIL IDEA, on your niche, gently pointing to your product.
+
 ## Quickstart (tonight, ~10 minutes)
 
 0. **The product already exists** — go to `product/`, open the pages, print to
