@@ -154,7 +154,8 @@ def build_ass(lines, timeline) -> str:
         s = f"{int(start//3600)}:{int((start%3600)//60):02d}:{start%60:05.2f}"
         e = f"{int(end//3600)}:{int((end%3600)//60):02d}:{end%60:05.2f}"
         style = "Hook" if tag == "HOOK" else "Big"
-        ass.append(f"Dialogue: 0,{s},{e},{style},,0,0,0,,{{\\fad(280,280)}}{text.replace(chr(10),'\\N')}")
+        safe_text = text.replace(chr(10), "\\N")
+        ass.append(f"Dialogue: 0,{s},{e},{style},,0,0,0,,{{\\fad(280,280)}}{safe_text}")
         if tag != "HOOK":
             # tag kicker appears just above
             t0 = start
