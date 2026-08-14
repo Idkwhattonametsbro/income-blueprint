@@ -5,22 +5,22 @@
 ---
 
 ## HOOK (first second, no intro)
-The 2-2-2 rule: the cheapest way to get a calmer week.
+Everything in my weekly system fits on one page - here it is.
 
 ## SCRIPT (40-55s voice-over)
-The 1-3-5 rule: one big thing, three medium things, five small things. That's a realistic day.
+15 minutes on Sunday night. That's the whole investment.
 
-Big = takes real focus, moves your life. Medium = about 30 minutes. Small = quick wins.
+Step 1: brain dump - write everything floating in your head on one page. The mess lives in your head, not your calendar.
+Step 2: pick 3 - circle the three things that actually matter this week. Everything else is a bonus.
+Step 3: one anchor - one meal, one walk, one early night. One thing that keeps the week human.
 
-If you finish the 1 and the 3, the day was a win. The 5 are just gravy.
-
-Your list isn't a promise - it's a menu. Pick what fits the day.
+That's the reset. One page. Free template in the link in bio.
 
 ## TITLE
 The shutdown ritual that ends your day properly
 
 ## CAPTION
-Six hours out of 168. That's all the 2-2-2 rule costs - and it buys you a calmer week. Which 2 are you taking first?
+A door you close instead of a wall you fall through. That's what a shutdown ritual does. Try it tonight.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
@@ -29,7 +29,7 @@ Six hours out of 168. That's all the 2-2-2 rule costs - and it buys you a calmer
 Save this for Sunday night. Free template in the link in bio.
 
 ## THUMBNAIL IDEA
-Calendar close-up, one circle drawn around Sunday, text: '15 MIN SUNDAY.'
+One-page planner mockup, big text: 'ONE PAGE. CALM WEEK.' orange accent.
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
