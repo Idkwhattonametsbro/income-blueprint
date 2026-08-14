@@ -1,33 +1,39 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Monthly Overview</title>
+<html lang="en"><head><meta charset="UTF-8"><title>Monthly Overview</title>
 <style>
   @page { size: A4 landscape; margin: 12mm 14mm; }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { font-family: 'Inter', -apple-system, 'Segoe UI', Arial, sans-serif; background: #fff; color: #3F3A34; font-size: 10pt; }
-  .head { display: flex; justify-content: space-between; align-items: baseline; border-bottom: 2px solid #F97316; padding-bottom: 3mm; margin-bottom: 6mm; }
-  .head .t { font-weight: 800; font-size: 16pt; }
-  .head .pn { font-size: 9pt; color: #8A8378; }
-  table { width: 100%; border-collapse: collapse; table-layout: fixed; }
-  td, th { border: 1px solid #D9D2C4; height: 13mm; vertical-align: top; padding: 1.5mm; font-size: 8pt; color: #8A8378; }
-  th { background: #FFF7ED; color: #EA580C; font-size: 9pt; height: 8mm; text-align: left; }
-  .note { font-size: 9pt; color: #8A8378; margin: 4mm 0 2mm; }
-  .foot { margin-top: 6mm; border-top: 1px solid #EBE4D8; padding-top: 3mm; font-size: 8.5pt; color: #8A8378; display: flex; justify-content: space-between; }
-</style>
-</head>
+  body { font-family: 'Inter', Arial, sans-serif; background: #fff; color: #2F2A26; }
+  .brand { display: flex; align-items: center; gap: 10px; border-bottom: 3px solid #F97316; padding-bottom: 10px; margin-bottom: 18px; }
+  .brand .mark { width: 34px; height: 34px; border-radius: 9px; background: linear-gradient(135deg,#FB923C,#EA580C); display:flex; align-items:center; justify-content:center; color:#fff; font-weight:800; font-size:15px; }
+  .brand .nm { font-family: 'Georgia', 'Times New Roman', serif; font-weight: 700; font-size: 17pt; letter-spacing: .02em; }
+  .brand .pg { margin-left: auto; font-size: 9pt; color: #8A8378; }
+  .tagline { font-size: 9.5pt; color: #8A8378; margin: -10px 0 16px; }
+  .card { background: #FAF9F6; border: 1px solid #E8E1D6; border-radius: 14px; padding: 16px 18px; margin-bottom: 14px; }
+  .card h2 { font-family: 'Georgia', 'Times New Roman', serif; font-size: 13pt; color: #C2410C; margin-bottom: 10px; display: flex; align-items: center; gap: 9px; }
+  .card h2 .n { width: 24px; height: 24px; border-radius: 50%; background: linear-gradient(135deg,#FB923C,#EA580C); color:#fff; font-family: Inter; font-size: 10.5pt; font-weight: 700; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+  .line { border-bottom: 1.5px solid #E8E1D6; height: 34px; }
+  .note { font-size: 8.5pt; color: #8A8378; margin-top: 4px; }
+  .foot { margin-top: 14px; border-top: 1px solid #E8E1D6; padding-top: 8px; font-size: 8pt; color: #8A8378; display: flex; justify-content: space-between; }
+  .chk { display: inline-block; width: 14px; height: 14px; border: 2px solid #F97316; border-radius: 4px; margin-right: 8px; vertical-align: -2px; }
+  table { width: 100%; border-collapse: collapse; }
+  td, th { border: 1px solid #E8E1D6; }
+</style></head>
 <body>
-  <div class="head"><div class="t">Monthly Overview</div><div class="pn">Page 3 · Calm Week System</div></div>
-  <div class="note">Month: <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> — write one word per day: the task that mattered. Guilt doesn't live here.</div>
-  <table>
-    <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr>
-    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  </table>
-  <div class="foot"><span>Calm Week System · The One-Page Week Kit</span><span>one word per day · keep it human</span></div>
-</body>
-</html>
+  <div class="brand"><div class="mark">N</div><div class="nm">Monthly Overview</div><div class="pg">Calm Week System · printable</div></div>
+  
+  <div class="tagline">One word per day. The task that mattered. Guilt doesn't live here.</div>
+  <div class="card"><h2><span class="n">1</span>The month at a glance</h2>
+    <table style="width:100%">
+      <tr><td style="height:18px;font-size:9pt;color:#C9BFAE;text-align:center">1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr>
+      <tr><td style="height:18px;font-size:9pt;color:#C9BFAE;text-align:center">8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td></tr>
+      <tr><td style="height:18px;font-size:9pt;color:#C9BFAE;text-align:center">15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td></tr>
+      <tr><td style="height:18px;font-size:9pt;color:#C9BFAE;text-align:center">22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td></tr>
+      <tr><td style="height:18px;font-size:9pt;color:#C9BFAE;text-align:center">29</td><td>30</td><td>31</td><td></td><td></td><td></td><td></td></tr>
+    </table>
+  </div>
+  <div class="card"><h2><span class="n">2</span>This month's 3</h2><div class="line"></div><div class="line"></div><div class="line"></div></div>
+  <div class="card"><h2><span class="n">3</span>The one word for this month</h2><div class="line" style="height:22px"></div></div>
+
+  <div class="foot"><span>Calm Week System · Monthly Overview</span><span>print at home · A4 · instant download</span></div>
+</body></html>

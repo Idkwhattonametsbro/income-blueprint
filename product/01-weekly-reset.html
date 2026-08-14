@@ -1,38 +1,33 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>The Weekly Reset</title>
+<html lang="en"><head><meta charset="UTF-8"><title>The Weekly Reset</title>
 <style>
-  @page { size: A4; margin: 14mm 16mm; }
+  @page { size: A4; margin: 12mm 14mm; }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { font-family: 'Inter', -apple-system, 'Segoe UI', Arial, sans-serif; background: #fff; color: #3F3A34; font-size: 11pt; }
-  .head { display: flex; justify-content: space-between; align-items: baseline; border-bottom: 2px solid #F97316; padding-bottom: 3mm; margin-bottom: 6mm; }
-  .head .t { font-weight: 800; font-size: 16pt; letter-spacing: .02em; }
-  .head .pn { font-size: 9pt; color: #8A8378; }
-  .warn { background: #FFF7ED; border: 1px solid #FED7AA; border-radius: 3mm; padding: 3mm 4mm; font-size: 9.5pt; color: #9A5B10; margin-bottom: 6mm; }
-  section { margin-bottom: 7mm; }
-  h2 { font-size: 11pt; letter-spacing: .14em; color: #EA580C; margin-bottom: 3mm; }
-  .lines { width: 100%; }
-  .line { border-bottom: 1px solid #D9D2C4; height: 9mm; }
-  .cols { display: flex; gap: 6mm; }
-  .col { flex: 1; }
-  .note { font-size: 9pt; color: #8A8378; margin-top: 2mm; }
-  .foot { margin-top: 8mm; border-top: 1px solid #EBE4D8; padding-top: 3mm; font-size: 8.5pt; color: #8A8378; display: flex; justify-content: space-between; }
-</style>
-</head>
+  body { font-family: 'Inter', Arial, sans-serif; background: #fff; color: #2F2A26; }
+  .brand { display: flex; align-items: center; gap: 10px; border-bottom: 3px solid #F97316; padding-bottom: 10px; margin-bottom: 18px; }
+  .brand .mark { width: 34px; height: 34px; border-radius: 9px; background: linear-gradient(135deg,#FB923C,#EA580C); display:flex; align-items:center; justify-content:center; color:#fff; font-weight:800; font-size:15px; }
+  .brand .nm { font-family: 'Georgia', 'Times New Roman', serif; font-weight: 700; font-size: 17pt; letter-spacing: .02em; }
+  .brand .pg { margin-left: auto; font-size: 9pt; color: #8A8378; }
+  .tagline { font-size: 9.5pt; color: #8A8378; margin: -10px 0 16px; }
+  .card { background: #FAF9F6; border: 1px solid #E8E1D6; border-radius: 14px; padding: 16px 18px; margin-bottom: 14px; }
+  .card h2 { font-family: 'Georgia', 'Times New Roman', serif; font-size: 13pt; color: #C2410C; margin-bottom: 10px; display: flex; align-items: center; gap: 9px; }
+  .card h2 .n { width: 24px; height: 24px; border-radius: 50%; background: linear-gradient(135deg,#FB923C,#EA580C); color:#fff; font-family: Inter; font-size: 10.5pt; font-weight: 700; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+  .line { border-bottom: 1.5px solid #E8E1D6; height: 34px; }
+  .note { font-size: 8.5pt; color: #8A8378; margin-top: 4px; }
+  .foot { margin-top: 14px; border-top: 1px solid #E8E1D6; padding-top: 8px; font-size: 8pt; color: #8A8378; display: flex; justify-content: space-between; }
+  .chk { display: inline-block; width: 14px; height: 14px; border: 2px solid #F97316; border-radius: 4px; margin-right: 8px; vertical-align: -2px; }
+  table { width: 100%; border-collapse: collapse; }
+  td, th { border: 1px solid #E8E1D6; }
+</style></head>
 <body>
-  <div class="head"><div class="t">The Weekly Reset</div><div class="pn">Page 1 · Calm Week System</div></div>
-  <div class="warn">15 minutes, every Sunday night. Monday becomes a start, not a surprise.</div>
-  <section><h2>1 · BRAIN DUMP (2 min)</h2><div class="lines"><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div></div></section>
-  <section><h2>2 · THE 3 (2 min) — circle what matters this week</h2><div class="lines"><div class="line"></div><div class="line"></div><div class="line"></div></div></section>
-  <section><h2>3 · THE ANCHOR (2 min) — one meal, one walk, one early night</h2><div class="line"></div></section>
-  <section><h2>4 · MONEY + MEALS, one line each (3 min)</h2><div class="cols">
-    <div class="col"><div class="line"></div><div class="note">money this week</div></div>
-    <div class="col"><div class="line"></div><div class="note">meals this week</div></div>
-  </div></section>
-  <section><h2>5 · THE FUN THING (1 min) — calendar first, not last</h2><div class="line"></div></section>
-  <section><h2>6 · DONE FOR TODAY (1 min)</h2><div class="line"></div></section>
-  <div class="foot"><span>Calm Week System · The One-Page Week Kit</span><span>free template — share it</span></div>
-</body>
-</html>
+  <div class="brand"><div class="mark">N</div><div class="nm">The Weekly Reset</div><div class="pg">Calm Week System · printable</div></div>
+  
+  <div class="tagline">15 minutes, every Sunday night. Monday becomes a start, not a surprise.</div>
+  <div class="card"><h2><span class="n">1</span>Brain dump</h2><div class="line"></div><div class="line"></div><div class="line"></div><div class="note">Write everything floating in your head. This page can hold it.</div></div>
+  <div class="card"><h2><span class="n">2</span>The 3 — circle what matters</h2><div class="line"></div><div class="line"></div><div class="line"></div></div>
+  <div class="card"><h2><span class="n">3</span>The anchor — one meal, one walk, one early night</h2><div class="line"></div></div>
+  <div class="card"><h2><span class="n">4</span>Money + meals, one line each</h2><div class="line"></div><div class="line"></div></div>
+  <div class="card"><h2><span class="n">5</span>The fun thing — calendar first, not last</h2><div class="line"></div></div>
+
+  <div class="foot"><span>Calm Week System · The Weekly Reset</span><span>print at home · A4 · instant download</span></div>
+</body></html>

@@ -117,6 +117,48 @@ def shutdown():
 """, landscape=True)
 
 
+def daily_135():
+    return shell("Daily 1-3-5 Sheet", """
+  <div class="tagline">One big thing, three medium, five small. Finish the 1 and the 3 and the day is a win.</div>
+  <div class="card"><h2><span class="n">1</span>One big thing</h2><div class="line" style="height:40px"></div></div>
+  <div class="card"><h2><span class="n">3</span>Three medium</h2><div class="line"></div><div class="line"></div><div class="line"></div></div>
+  <div class="card"><h2><span class="n">5</span>Five small</h2><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div></div>
+  <div class="card"><h2><span class="n">6</span>Wins today</h2><div class="line"></div><div class="note">Your list is a menu, not a promise.</div></div>
+""")
+
+
+def monthly_overview():
+    return shell("Monthly Overview", """
+  <div class="tagline">One word per day. The task that mattered. Guilt doesn't live here.</div>
+  <div class="card"><h2><span class="n">1</span>The month at a glance</h2>
+    <table style="width:100%">
+      <tr><td style="height:18px;font-size:9pt;color:#C9BFAE;text-align:center">1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr>
+      <tr><td style="height:18px;font-size:9pt;color:#C9BFAE;text-align:center">8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td></tr>
+      <tr><td style="height:18px;font-size:9pt;color:#C9BFAE;text-align:center">15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td></tr>
+      <tr><td style="height:18px;font-size:9pt;color:#C9BFAE;text-align:center">22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td></tr>
+      <tr><td style="height:18px;font-size:9pt;color:#C9BFAE;text-align:center">29</td><td>30</td><td>31</td><td></td><td></td><td></td><td></td></tr>
+    </table>
+  </div>
+  <div class="card"><h2><span class="n">2</span>This month's 3</h2><div class="line"></div><div class="line"></div><div class="line"></div></div>
+  <div class="card"><h2><span class="n">3</span>The one word for this month</h2><div class="line" style="height:22px"></div></div>
+""", landscape=True)
+
+
+def challenge_30():
+    return shell("30-Day Calm Challenge", """
+  <div class="tagline">One tiny action a day. Miss a day? Miss one - not two.</div>
+  <table style="width:100%">
+    <tr><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">1</b><br>write tomorrow's 3</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">2</b><br>phone away</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">3</b><br>brain dump</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">4</b><br>one walk</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">5</b><br>close tabs</td></tr>
+    <tr><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">6</b><br>early night</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">7</b><br>reset</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">8</b><br>fun thing</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">9</b><br>3 meals</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">10</b><br>gratitude</td></tr>
+    <tr><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">11</b><br>no phone 1h</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">12</b><br>money map</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">13</b><br>declutter</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">14</b><br>review</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">15</b><br>ritual</td></tr>
+    <tr><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">16</b><br>simple meal</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">17</b><br>1-3-5 day</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">18</b><br>boring hour</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">19</b><br>reply fully</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">20</b><br>clothes out</td></tr>
+    <tr><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">21</b><br>reset again</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">22</b><br>later list</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">23</b><br>water</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">24</b><br>money move</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">25</b><br>no compare</td></tr>
+    <tr><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">26</b><br>one line</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">27</b><br>fun ahead</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">28</b><br>streak check</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">29</b><br>help someone</td><td style="height:20px;font-size:9pt;color:#C9BFAE;text-align:center"><b style="color:#EA580C">30</b><br>reset + celebrate</td></tr>
+  </table>
+  <div class="card" style="margin-top:8px"><h2>What changed?</h2><div class="line"></div></div>
+""", landscape=True)
+
+
 PRODUCT_PAGES_V2 = {
     "budget": budget_tracker,
     "adhd": weekly_reset,
@@ -128,6 +170,9 @@ PRODUCT_PAGES_V2 = {
     "stickers": habit_tracker,
     "wallart": shutdown,
     "canva": weekly_reset,
+    "daily": daily_135,
+    "monthly": monthly_overview,
+    "challenge": challenge_30,
 }
 
 

@@ -42,12 +42,19 @@
   <div class="tabs">
     <button class="tab on" data-t="video">VIDEO PACK</button>
     <button class="tab" data-t="etsy">ETSY PACK</button>
+    <button class="tab" data-t="settings">SETTINGS</button>
   </div>
 </header>
 <main>
   <div class="banner">
     <b>Your daily machine:</b>
     <p>Every morning at 06:00 both packs are generated automatically (and emailed to you if configured). Don't like today's? Hit <b>GENERATE NOW</b> below for a fresh one instantly. Copy each section, paste, post. You never touch the repo.</p>
+  </div>
+  <div class="steps" style="display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:14px">
+    <div style="background:#fff;border:1px solid var(--line);border-radius:12px;padding:10px;font-size:11px;color:var(--mut)"><b style="display:block;color:var(--ink)">1 · Download</b>cover + product file below</div>
+    <div style="background:#fff;border:1px solid var(--line);border-radius:12px;padding:10px;font-size:11px;color:var(--mut)"><b style="display:block;color:var(--ink)">2 · Copy</b>title, tags, description</div>
+    <div style="background:#fff;border:1px solid var(--line);border-radius:12px;padding:10px;font-size:11px;color:var(--mut)"><b style="display:block;color:var(--ink)">3 · Create</b>the Etsy listing (OnePageStudio)</div>
+    <div style="background:#fff;border:1px solid var(--line);border-radius:12px;padding:10px;font-size:11px;color:var(--mut)"><b style="display:block;color:var(--ink)">4 · Publish</b>+ link it in your bio</div>
   </div>
   <div class="genbar">
     <button class="gen" id="genbtn">GENERATE NOW</button>
@@ -74,6 +81,22 @@
     <div id="e-loading" class="loading">Loading today's Etsy pack...</div>
     <div id="e-content" style="display:none"></div>
     <div id="e-archive" style="display:none; margin-top:8px"><div class="card"><h2>Previous days</h2><div id="e-days"></div></div></div>
+  </section>
+  <section class="panel" id="p-settings">
+    <div class="card">
+      <h2>GitHub token (for GENERATE NOW only)</h2>
+      <p style="font-size:12.5px;color:var(--mut);line-height:1.6;margin-bottom:10px">The daily runs work automatically without this. Only needed for instant generation. Stored only in this browser.</p>
+      <input type="password" id="tok" placeholder="github_pat_..." style="width:100%;padding:11px 12px;border:1px solid var(--line);border-radius:10px;font-size:13px;margin-bottom:10px">
+      <div style="display:flex;gap:8px">
+        <button class="btn" id="toksave">SAVE TOKEN</button>
+        <button class="btn ghost" id="tokclear">CLEAR</button>
+      </div>
+      <div class="meta" style="margin-top:10px">Create: <a class="link" href="https://github.com/settings/personal-access-tokens/new" target="_blank">github.com/settings/personal-access-tokens</a> → repo: income-blueprint → Actions: read/write</div>
+    </div>
+    <div class="card">
+      <h2>OnePageStudio setup</h2>
+      <div style="font-size:12.5px;color:var(--mut);line-height:1.7">Follow <b>store-guide.md</b> in the repo (or see it at <a class="link" href="https://github.com/Idkwhattonametsbro/income-blueprint/blob/main/store-guide.md" target="_blank">github.com/.../store-guide.md</a>) — every field is filled for you.</div>
+    </div>
   </section>
 </main>
 <script>
@@ -204,6 +227,16 @@
     document.getElementById('p-' + b.dataset.t).classList.add('on');
   }));
   document.getElementById('genbtn').addEventListener('click', generateNow);
+  document.getElementById('toksave').addEventListener('click', () => {
+    const v = document.getElementById('tok').value.trim();
+    if (!v) return;
+    try { localStorage.setItem(TOKEN_KEY, v); savedToken = v; } catch(e){}
+    updateChips();
+  });
+  document.getElementById('tokclear').addEventListener('click', () => {
+    try { localStorage.removeItem(TOKEN_KEY); savedToken = ''; } catch(e){}
+    updateChips();
+  });
   document.addEventListener('click', (e) => {
     if (e.target.classList && e.target.classList.contains('copy')){
       const t = e.target.dataset.t;
@@ -213,6 +246,7 @@
     }
   });
 
+  updateChips();
   loadVideo(); loadEtsy();
 </script>
 </body>

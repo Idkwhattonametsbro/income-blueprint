@@ -5,17 +5,17 @@
 ---
 
 ## HOOK (first second, no intro)
-This Sunday ritual takes 15 minutes and saves you 5 hours.
+How broke students actually get organized (no course, no app).
 
 ## SCRIPT (40-55s voice-over)
-When does your day actually end? If the answer is 'never', fix it tonight.
+Ten minutes before bed, four moves:
 
-Pick a time. At that time, three things:
-1. Write tomorrow's 3 tasks. Your brain can stop holding them.
-2. Close every tab - phone and brain.
-3. One sentence: 'Done for today.' Say it out loud.
+1. Phone across the room. You'll thank me at 2AM.
+2. Tomorrow's clothes out (or bag packed).
+3. Tomorrow's 3 tasks written down.
+4. Water on the nightstand.
 
-Ten minutes. The end of the day becomes a door you close instead of a wall you fall through.
+That's it. Future-you starts the day already winning.
 
 ## TITLE
 The 15-minute Sunday ritual that fixes your week
@@ -30,7 +30,7 @@ Your week doesn't need more apps. It needs one page. Save this for Sunday night 
 Save this for Sunday night. Free template in the link in bio.
 
 ## THUMBNAIL IDEA
-Calendar close-up, one circle drawn around Sunday, text: '15 MIN SUNDAY.'
+Phone screenshot of a clean 3-task list, big text: '3 THINGS ONLY.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok

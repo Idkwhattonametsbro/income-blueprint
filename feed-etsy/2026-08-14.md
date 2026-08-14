@@ -5,19 +5,19 @@
 ---
 
 ## PRODUCT
-Minimal Budget Tracker Printable
+Canva Social Media Template Kit
 
 ## WHY IT SELLS
-Budget trackers are perennial Etsy bestsellers - high buyer intent, impulse-priced, no inventory.
+Small businesses pay for ready-made branding without hiring a designer - high value per item.
 
 ## LISTING TITLE (140 chars max)
-Minimal Budget Tracker Printable | Minimal Printable | A4 Digital Download PDF
+Canva Social Media Template Kit | Minimal Printable | A4 Digital Download PDF
 
 ## 13 TAGS
 digital download, printable, planner, template, pdf, minimal, organizer, budget, habits, a4, printable planner, instant download, gift for students
 
 ## DESCRIPTION (premium, no hype)
-Minimal Budget Tracker Printable
+Canva Social Media Template Kit
 
 WHAT'S INSIDE
 • One clean page, ready to print
@@ -25,7 +25,7 @@ WHAT'S INSIDE
 • Print as many copies as you need
 
 WHY IT WORKS
-Budget trackers are perennial Etsy bestsellers - high buyer intent, impulse-priced, no inventory.
+Small businesses pay for ready-made branding without hiring a designer - high value per item.
 
 DETAILS
 • Instant digital download - nothing ships
@@ -36,10 +36,10 @@ DETAILS
 NOTE: This is a digital download. No physical item will be shipped.
 
 ## PRICE
-$5 USD
+$9 USD
 
 ## IMAGE BRIEF (for your listing mockup)
-Flat-lay mockup of the printed page on a cream background, warm orange accent, big readable title 'Minimal Budget Tracker Printable'.
+Flat-lay mockup of the printed page on a cream background, warm orange accent, big readable title 'Canva Social Media Template Kit'.
 
 ## PRODUCT FILE
 See `product_2026-08-14.html` next to this file - open it, screenshot or print-to-PDF, and use it as the listing's product image and download.

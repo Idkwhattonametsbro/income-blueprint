@@ -1,41 +1,32 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Daily 1-3-5 Sheet</title>
+<html lang="en"><head><meta charset="UTF-8"><title>Daily 1-3-5 Sheet</title>
 <style>
-  @page { size: A4; margin: 14mm 16mm; }
+  @page { size: A4; margin: 12mm 14mm; }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { font-family: 'Inter', -apple-system, 'Segoe UI', Arial, sans-serif; background: #fff; color: #3F3A34; font-size: 11pt; }
-  .head { display: flex; justify-content: space-between; align-items: baseline; border-bottom: 2px solid #F97316; padding-bottom: 3mm; margin-bottom: 6mm; }
-  .head .t { font-weight: 800; font-size: 16pt; }
-  .head .pn { font-size: 9pt; color: #8A8378; }
-  .date { border: 1.5px solid #D9D2C4; border-radius: 3mm; padding: 3mm 4mm; margin-bottom: 7mm; font-size: 10pt; color: #8A8378; }
-  .date b { color: #3F3A34; }
-  .row { display: flex; align-items: center; gap: 4mm; margin-bottom: 5mm; }
-  .box { width: 7mm; height: 7mm; border: 1.5px solid #F97316; border-radius: 1.5mm; flex-shrink: 0; }
-  .lbl { width: 34mm; font-weight: 700; font-size: 10.5pt; color: #EA580C; letter-spacing: .06em; }
-  .fill { flex: 1; border-bottom: 1px solid #D9D2C4; height: 9mm; }
-  .big { min-height: 12mm; }
-  .note { font-size: 9pt; color: #8A8378; margin-top: 2mm; }
-  .foot { margin-top: 10mm; border-top: 1px solid #EBE4D8; padding-top: 3mm; font-size: 8.5pt; color: #8A8378; display: flex; justify-content: space-between; }
-</style>
-</head>
+  body { font-family: 'Inter', Arial, sans-serif; background: #fff; color: #2F2A26; }
+  .brand { display: flex; align-items: center; gap: 10px; border-bottom: 3px solid #F97316; padding-bottom: 10px; margin-bottom: 18px; }
+  .brand .mark { width: 34px; height: 34px; border-radius: 9px; background: linear-gradient(135deg,#FB923C,#EA580C); display:flex; align-items:center; justify-content:center; color:#fff; font-weight:800; font-size:15px; }
+  .brand .nm { font-family: 'Georgia', 'Times New Roman', serif; font-weight: 700; font-size: 17pt; letter-spacing: .02em; }
+  .brand .pg { margin-left: auto; font-size: 9pt; color: #8A8378; }
+  .tagline { font-size: 9.5pt; color: #8A8378; margin: -10px 0 16px; }
+  .card { background: #FAF9F6; border: 1px solid #E8E1D6; border-radius: 14px; padding: 16px 18px; margin-bottom: 14px; }
+  .card h2 { font-family: 'Georgia', 'Times New Roman', serif; font-size: 13pt; color: #C2410C; margin-bottom: 10px; display: flex; align-items: center; gap: 9px; }
+  .card h2 .n { width: 24px; height: 24px; border-radius: 50%; background: linear-gradient(135deg,#FB923C,#EA580C); color:#fff; font-family: Inter; font-size: 10.5pt; font-weight: 700; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+  .line { border-bottom: 1.5px solid #E8E1D6; height: 34px; }
+  .note { font-size: 8.5pt; color: #8A8378; margin-top: 4px; }
+  .foot { margin-top: 14px; border-top: 1px solid #E8E1D6; padding-top: 8px; font-size: 8pt; color: #8A8378; display: flex; justify-content: space-between; }
+  .chk { display: inline-block; width: 14px; height: 14px; border: 2px solid #F97316; border-radius: 4px; margin-right: 8px; vertical-align: -2px; }
+  table { width: 100%; border-collapse: collapse; }
+  td, th { border: 1px solid #E8E1D6; }
+</style></head>
 <body>
-  <div class="head"><div class="t">Daily 1-3-5</div><div class="pn">Page 2 · Calm Week System</div></div>
-  <div class="date">Date: <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> &nbsp;·&nbsp; Day: <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></div>
-  <div class="note">1 big thing, 3 medium, 5 small. Finish the 1 and the 3 and the day is a win.</div>
-  <div style="margin-top:6mm">
-    <div class="row"><div class="box"></div><div class="lbl">1 BIG</div><div class="fill big"></div></div>
-    <div class="row"><div class="box"></div><div class="lbl">3 MEDIUM</div><div class="fill"></div></div>
-    <div class="row"><div class="box"></div><div class="lbl">&nbsp;</div><div class="fill"></div></div>
-    <div class="row"><div class="box"></div><div class="lbl">&nbsp;</div><div class="fill"></div></div>
-    <div class="row"><div class="box"></div><div class="lbl">5 SMALL</div><div class="fill"></div></div>
-    <div class="row"><div class="box"></div><div class="lbl">&nbsp;</div><div class="fill"></div></div>
-    <div class="row"><div class="box"></div><div class="lbl">&nbsp;</div><div class="fill"></div></div>
-    <div class="row"><div class="box"></div><div class="lbl">&nbsp;</div><div class="fill"></div></div>
-    <div class="row"><div class="box"></div><div class="lbl">&nbsp;</div><div class="fill"></div></div>
-  </div>
-  <div class="foot"><span>Calm Week System · The One-Page Week Kit</span><span>print daily, or keep in your notes app</span></div>
-</body>
-</html>
+  <div class="brand"><div class="mark">N</div><div class="nm">Daily 1-3-5 Sheet</div><div class="pg">Calm Week System · printable</div></div>
+  
+  <div class="tagline">One big thing, three medium, five small. Finish the 1 and the 3 and the day is a win.</div>
+  <div class="card"><h2><span class="n">1</span>One big thing</h2><div class="line" style="height:40px"></div></div>
+  <div class="card"><h2><span class="n">3</span>Three medium</h2><div class="line"></div><div class="line"></div><div class="line"></div></div>
+  <div class="card"><h2><span class="n">5</span>Five small</h2><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div></div>
+  <div class="card"><h2><span class="n">6</span>Wins today</h2><div class="line"></div><div class="note">Your list is a menu, not a promise.</div></div>
+
+  <div class="foot"><span>Calm Week System · Daily 1-3-5 Sheet</span><span>print at home · A4 · instant download</span></div>
+</body></html>
