@@ -36,6 +36,11 @@ income-blueprint/
 
 ## Quickstart (tonight, ~10 minutes)
 
+0. **The product already exists** — go to `product/`, open the pages, print to
+   PDF (30 min), and list them with `listings/etsy-listing.md` (15 min).
+   That's your sleep machine.
+
+
 1. Open `blueprint.md`, fill the **North Star** line.
 2. Pick a loadout (or use the default below).
 3. Open `studio/index.html` in your browser — set your niche, pull random

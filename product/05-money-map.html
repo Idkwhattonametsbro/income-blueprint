@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Weekly Money Map</title>
+<style>
+  @page { size: A4; margin: 14mm 16mm; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Inter', -apple-system, 'Segoe UI', Arial, sans-serif; background: #fff; color: #3F3A34; font-size: 11pt; }
+  .head { display: flex; justify-content: space-between; align-items: baseline; border-bottom: 2px solid #F97316; padding-bottom: 3mm; margin-bottom: 6mm; }
+  .head .t { font-weight: 800; font-size: 16pt; }
+  .head .pn { font-size: 9pt; color: #8A8378; }
+  .warn { background: #FFF7ED; border: 1px solid #FED7AA; border-radius: 3mm; padding: 3mm 4mm; font-size: 9.5pt; color: #9A5B10; margin-bottom: 6mm; }
+  section { margin-bottom: 7mm; }
+  h2 { font-size: 11pt; letter-spacing: .14em; color: #EA580C; margin-bottom: 3mm; }
+  .line { border-bottom: 1px solid #D9D2C4; height: 9mm; }
+  .cols { display: flex; gap: 6mm; }
+  .col { flex: 1; }
+  .note { font-size: 9pt; color: #8A8378; margin-top: 2mm; }
+  .sum { display: flex; gap: 6mm; margin-top: 2mm; }
+  .sum div { flex: 1; text-align: center; border: 1.5px solid #F97316; border-radius: 3mm; padding: 4mm 2mm; }
+  .sum .lbl { font-size: 8.5pt; color: #8A8378; letter-spacing: .1em; }
+  .sum .amt { font-size: 13pt; font-weight: 800; color: #3F3A34; margin-top: 2mm; }
+  .foot { margin-top: 8mm; border-top: 1px solid #EBE4D8; padding-top: 3mm; font-size: 8.5pt; color: #8A8378; display: flex; justify-content: space-between; }
+</style>
+</head>
+<body>
+  <div class="head"><div class="t">Weekly Money Map</div><div class="pn">Page 5 · Calm Week System</div></div>
+  <div class="warn">Predictable beats perfect. Write the plan — don't optimize it. No debt, no interest, ever.</div>
+  <section><h2>IN — what arrives this week</h2><div class="line"></div></section>
+  <section><h2>OUT — fixed costs</h2><div class="line"></div><div class="line"></div></section>
+  <section><h2>OUT — variable (food, transport, fun)</h2><div class="line"></div><div class="line"></div></section>
+  <section><h2>LEFT — the number that matters</h2><div class="line"></div>
+    <div class="sum">
+      <div><div class="lbl">IN</div><div class="amt">_____</div></div>
+      <div><div class="lbl">OUT</div><div class="amt">_____</div></div>
+      <div><div class="lbl">LEFT</div><div class="amt">_____</div></div>
+    </div>
+  </section>
+  <section><h2>ONE SMALL MOVE for next week</h2><div class="line"></div><div class="note">cut one thing, or earn one small thing — never both in week one</div></section>
+  <div class="foot"><span>Calm Week System · The One-Page Week Kit</span><span>money without interest</span></div>
+</body>
+</html>
