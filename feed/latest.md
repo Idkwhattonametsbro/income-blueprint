@@ -1,11 +1,11 @@
-# Today's Post Pack · 2026-10-10
+# Today's Post Pack · 2026-10-11
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-Everything in my weekly system fits on one page - here it is.
+Free template inside: the weekly reset that takes one page.
 
 ## SCRIPT (40-55s voice-over)
 15 minutes on Sunday night. That's the whole investment.
@@ -17,19 +17,19 @@ Step 3: one anchor - one meal, one walk, one early night. One thing that keeps t
 That's the reset. One page. Free template in the link in bio.
 
 ## TITLE
-The 15-minute Sunday ritual that fixes your week
+How broke students get organized (no course, no app)
 
 ## CAPTION
-Six hours out of 168. That's all the 2-2-2 rule costs - and it buys you a calmer week. Which 2 are you taking first?
+Boring systems survive. Exciting ones die by Thursday. This is the boring one that works. Follow for the whole system.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
+Save this for Sunday night. Free template in the link in bio.
 
 ## THUMBNAIL IDEA
-One-page planner mockup, big text: 'ONE PAGE. CALM WEEK.' orange accent.
+Notebook + pen flat-lay, text: 'NO APP NEEDED.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
