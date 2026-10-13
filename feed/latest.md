@@ -1,35 +1,36 @@
-# Today's Post Pack · 2026-10-12
+# Today's Post Pack · 2026-10-13
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-If you can't keep a habit for a week, you're not the problem. The system is.
+Your to-do list is too long. Cut it to 3 things and watch what happens.
 
 ## SCRIPT (40-55s voice-over)
-The 2-2-2 rule: the cheapest way to get a calmer week.
+When does your day actually end? If the answer is 'never', fix it tonight.
 
-Two hours a week for yourself. No work, no phone. Boring is fine.
-Two hours for one person who matters to you. Coffee, walk, call.
-Two hours for future you - one small thing that makes next week easier.
+Pick a time. At that time, three things:
+1. Write tomorrow's 3 tasks. Your brain can stop holding them.
+2. Close every tab - phone and brain.
+3. One sentence: 'Done for today.' Say it out loud.
 
-That's 6 hours out of 168. You can afford it, even broke.
+Ten minutes. The end of the day becomes a door you close instead of a wall you fall through.
 
 ## TITLE
-The 10-minute evening that makes tomorrow effortless
+The 2-2-2 rule: the cheapest way to a calmer week
 
 ## CAPTION
-The 1-3-5 rule: one big, three medium, five small. Finish the 1 and the 3 and the day is a win. Save this for tomorrow morning.
+Six hours out of 168. That's all the 2-2-2 rule costs - and it buys you a calmer week. Which 2 are you taking first?
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
+Save this for Sunday night. Free template in the link in bio.
 
 ## THUMBNAIL IDEA
-One-page planner mockup, big text: 'ONE PAGE. CALM WEEK.' orange accent.
+Notebook + pen flat-lay, text: 'NO APP NEEDED.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
