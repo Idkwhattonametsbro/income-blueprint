@@ -1,27 +1,26 @@
-# Today's Post Pack · 2026-10-13
+# Today's Post Pack · 2026-10-14
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-Your to-do list is too long. Cut it to 3 things and watch what happens.
+You don't need a new app. You need a shutdown ritual.
 
 ## SCRIPT (40-55s voice-over)
-When does your day actually end? If the answer is 'never', fix it tonight.
+The 1-3-5 rule: one big thing, three medium things, five small things. That's a realistic day.
 
-Pick a time. At that time, three things:
-1. Write tomorrow's 3 tasks. Your brain can stop holding them.
-2. Close every tab - phone and brain.
-3. One sentence: 'Done for today.' Say it out loud.
+Big = takes real focus, moves your life. Medium = about 30 minutes. Small = quick wins.
 
-Ten minutes. The end of the day becomes a door you close instead of a wall you fall through.
+If you finish the 1 and the 3, the day was a win. The 5 are just gravy.
+
+Your list isn't a promise - it's a menu. Pick what fits the day.
 
 ## TITLE
-The 2-2-2 rule: the cheapest way to a calmer week
+The shutdown ritual that ends your day properly
 
 ## CAPTION
-Six hours out of 168. That's all the 2-2-2 rule costs - and it buys you a calmer week. Which 2 are you taking first?
+Apps add features. This system subtracts. One page is easier to keep than any app. Link in bio for the free template.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
@@ -30,7 +29,7 @@ Six hours out of 168. That's all the 2-2-2 rule costs - and it buys you a calmer
 Save this for Sunday night. Free template in the link in bio.
 
 ## THUMBNAIL IDEA
-Notebook + pen flat-lay, text: 'NO APP NEEDED.'
+One-page planner mockup, big text: 'ONE PAGE. CALM WEEK.' orange accent.
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
