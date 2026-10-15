@@ -1,32 +1,32 @@
-# Today's Post Pack · 2026-10-14
+# Today's Post Pack · 2026-10-15
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-You don't need a new app. You need a shutdown ritual.
+This Sunday ritual takes 15 minutes and saves you 5 hours.
 
 ## SCRIPT (40-55s voice-over)
-The 1-3-5 rule: one big thing, three medium things, five small things. That's a realistic day.
+Every Sunday night, same three moves:
 
-Big = takes real focus, moves your life. Medium = about 30 minutes. Small = quick wins.
+1. Clean slate - wipe last week's list. Guilt doesn't live in this system.
+2. Plan meals and money - one line each. Broke-friendly means predictable.
+3. Put one fun thing in the calendar first. Not last. First.
 
-If you finish the 1 and the 3, the day was a win. The 5 are just gravy.
-
-Your list isn't a promise - it's a menu. Pick what fits the day.
+Monday then feels like a start, not a surprise. Free template in the link in bio.
 
 ## TITLE
-The shutdown ritual that ends your day properly
+The one-page system that replaces productivity apps
 
 ## CAPTION
-Apps add features. This system subtracts. One page is easier to keep than any app. Link in bio for the free template.
+The 1-3-5 rule: one big, three medium, five small. Finish the 1 and the 3 and the day is a win. Save this for tomorrow morning.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-Save this for Sunday night. Free template in the link in bio.
+Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
 
 ## THUMBNAIL IDEA
 One-page planner mockup, big text: 'ONE PAGE. CALM WEEK.' orange accent.
