@@ -1,23 +1,23 @@
-# Today's Post Pack · 2026-10-15
+# Today's Post Pack · 2026-10-16
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-This Sunday ritual takes 15 minutes and saves you 5 hours.
+Your phone is the problem. Here's the 3-tab setup that fixes it.
 
 ## SCRIPT (40-55s voice-over)
-Every Sunday night, same three moves:
+15 minutes on Sunday night. That's the whole investment.
 
-1. Clean slate - wipe last week's list. Guilt doesn't live in this system.
-2. Plan meals and money - one line each. Broke-friendly means predictable.
-3. Put one fun thing in the calendar first. Not last. First.
+Step 1: brain dump - write everything floating in your head on one page. The mess lives in your head, not your calendar.
+Step 2: pick 3 - circle the three things that actually matter this week. Everything else is a bonus.
+Step 3: one anchor - one meal, one walk, one early night. One thing that keeps the week human.
 
-Monday then feels like a start, not a surprise. Free template in the link in bio.
+That's the reset. One page. Free template in the link in bio.
 
 ## TITLE
-The one-page system that replaces productivity apps
+The shutdown ritual that ends your day properly
 
 ## CAPTION
 The 1-3-5 rule: one big, three medium, five small. Finish the 1 and the 3 and the day is a win. Save this for tomorrow morning.
@@ -29,7 +29,7 @@ The 1-3-5 rule: one big, three medium, five small. Finish the 1 and the 3 and th
 Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
 
 ## THUMBNAIL IDEA
-One-page planner mockup, big text: 'ONE PAGE. CALM WEEK.' orange accent.
+Calendar close-up, one circle drawn around Sunday, text: '15 MIN SUNDAY.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
