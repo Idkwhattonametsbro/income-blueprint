@@ -1,4 +1,4 @@
-# Today's Post Pack · 2026-10-17
+# Today's Post Pack · 2026-10-18
 
 **Niche:** calm weekly systems for broke students and first-job people
 
@@ -8,19 +8,19 @@
 How broke students actually get organized (no course, no app).
 
 ## SCRIPT (40-55s voice-over)
-The 1-3-5 rule: one big thing, three medium things, five small things. That's a realistic day.
+The 2-2-2 rule: the cheapest way to get a calmer week.
 
-Big = takes real focus, moves your life. Medium = about 30 minutes. Small = quick wins.
+Two hours a week for yourself. No work, no phone. Boring is fine.
+Two hours for one person who matters to you. Coffee, walk, call.
+Two hours for future you - one small thing that makes next week easier.
 
-If you finish the 1 and the 3, the day was a win. The 5 are just gravy.
-
-Your list isn't a promise - it's a menu. Pick what fits the day.
+That's 6 hours out of 168. You can afford it, even broke.
 
 ## TITLE
-The 1-3-5 rule for a realistic day
+The shutdown ritual that ends your day properly
 
 ## CAPTION
-Apps add features. This system subtracts. One page is easier to keep than any app. Link in bio for the free template.
+Ten minutes tonight. Four moves. Tomorrow starts already winning. Save this so you remember at bedtime.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
