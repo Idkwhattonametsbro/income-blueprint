@@ -1,35 +1,36 @@
-# Today's Post Pack · 2026-10-19
+# Today's Post Pack · 2026-10-20
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-I stopped buying planners. This free one-page reset does more.
+Everything in my weekly system fits on one page - here it is.
 
 ## SCRIPT (40-55s voice-over)
-The 1-3-5 rule: one big thing, three medium things, five small things. That's a realistic day.
+When does your day actually end? If the answer is 'never', fix it tonight.
 
-Big = takes real focus, moves your life. Medium = about 30 minutes. Small = quick wins.
+Pick a time. At that time, three things:
+1. Write tomorrow's 3 tasks. Your brain can stop holding them.
+2. Close every tab - phone and brain.
+3. One sentence: 'Done for today.' Say it out loud.
 
-If you finish the 1 and the 3, the day was a win. The 5 are just gravy.
-
-Your list isn't a promise - it's a menu. Pick what fits the day.
+Ten minutes. The end of the day becomes a door you close instead of a wall you fall through.
 
 ## TITLE
-The 1-3-5 rule for a realistic day
+The 15-minute Sunday ritual that fixes your week
 
 ## CAPTION
-Your week doesn't need more apps. It needs one page. Save this for Sunday night - and grab the free template from the link in bio.
+Boring systems survive. Exciting ones die by Thursday. This is the boring one that works. Follow for the whole system.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
+The free one-page reset is in the link in bio. Want the whole 8-page Calm Week System? It's live now.
 
 ## THUMBNAIL IDEA
-Notebook + pen flat-lay, text: 'NO APP NEEDED.'
+One-page planner mockup, big text: 'ONE PAGE. CALM WEEK.' orange accent.
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
