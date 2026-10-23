@@ -1,35 +1,35 @@
-# Today's Post Pack · 2026-10-21
+# Today's Post Pack · 2026-10-23
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-Stop organizing your whole life. Organize the next 7 days.
+This Sunday ritual takes 15 minutes and saves you 5 hours.
 
 ## SCRIPT (40-55s voice-over)
-The 1-3-5 rule: one big thing, three medium things, five small things. That's a realistic day.
+Every habit system assumes you have time, energy, and a clean desk.
+Broke, tired, and overwhelmed is a different game.
 
-Big = takes real focus, moves your life. Medium = about 30 minutes. Small = quick wins.
+Smaller than you think: 3 tasks, 10-minute evening, one page.
+Slower than you want: one habit at a time, two weeks minimum.
 
-If you finish the 1 and the 3, the day was a win. The 5 are just gravy.
-
-Your list isn't a promise - it's a menu. Pick what fits the day.
+Boring is the point. Boring systems survive. Exciting ones die by Thursday.
 
 ## TITLE
-Why boring systems beat exciting ones
+The 10-minute evening that makes tomorrow effortless
 
 ## CAPTION
-A door you close instead of a wall you fall through. That's what a shutdown ritual does. Try it tonight.
+Ten minutes tonight. Four moves. Tomorrow starts already winning. Save this so you remember at bedtime.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-Save this for Sunday night. Free template in the link in bio.
+Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
 
 ## THUMBNAIL IDEA
-Phone screenshot of a clean 3-task list, big text: '3 THINGS ONLY.'
+Calendar close-up, one circle drawn around Sunday, text: '15 MIN SUNDAY.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
