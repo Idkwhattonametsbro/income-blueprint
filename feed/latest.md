@@ -1,4 +1,4 @@
-# Today's Post Pack · 2026-10-23
+# Today's Post Pack · 2026-10-24
 
 **Niche:** calm weekly systems for broke students and first-job people
 
@@ -8,19 +8,19 @@
 This Sunday ritual takes 15 minutes and saves you 5 hours.
 
 ## SCRIPT (40-55s voice-over)
-Every habit system assumes you have time, energy, and a clean desk.
-Broke, tired, and overwhelmed is a different game.
+Every Sunday night, same three moves:
 
-Smaller than you think: 3 tasks, 10-minute evening, one page.
-Slower than you want: one habit at a time, two weeks minimum.
+1. Clean slate - wipe last week's list. Guilt doesn't live in this system.
+2. Plan meals and money - one line each. Broke-friendly means predictable.
+3. Put one fun thing in the calendar first. Not last. First.
 
-Boring is the point. Boring systems survive. Exciting ones die by Thursday.
+Monday then feels like a start, not a surprise. Free template in the link in bio.
 
 ## TITLE
-The 10-minute evening that makes tomorrow effortless
+The 2-2-2 rule: the cheapest way to a calmer week
 
 ## CAPTION
-Ten minutes tonight. Four moves. Tomorrow starts already winning. Save this so you remember at bedtime.
+Boring systems survive. Exciting ones die by Thursday. This is the boring one that works. Follow for the whole system.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
@@ -29,7 +29,7 @@ Ten minutes tonight. Four moves. Tomorrow starts already winning. Save this so y
 Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
 
 ## THUMBNAIL IDEA
-Calendar close-up, one circle drawn around Sunday, text: '15 MIN SUNDAY.'
+One-page planner mockup, big text: 'ONE PAGE. CALM WEEK.' orange accent.
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
