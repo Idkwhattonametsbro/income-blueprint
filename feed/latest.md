@@ -1,32 +1,33 @@
-# Today's Post Pack · 2026-10-24
+# Today's Post Pack · 2026-10-25
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-This Sunday ritual takes 15 minutes and saves you 5 hours.
+3 apps you already have that can replace $200 of productivity tools.
 
 ## SCRIPT (40-55s voice-over)
-Every Sunday night, same three moves:
+Ten minutes before bed, four moves:
 
-1. Clean slate - wipe last week's list. Guilt doesn't live in this system.
-2. Plan meals and money - one line each. Broke-friendly means predictable.
-3. Put one fun thing in the calendar first. Not last. First.
+1. Phone across the room. You'll thank me at 2AM.
+2. Tomorrow's clothes out (or bag packed).
+3. Tomorrow's 3 tasks written down.
+4. Water on the nightstand.
 
-Monday then feels like a start, not a surprise. Free template in the link in bio.
+That's it. Future-you starts the day already winning.
 
 ## TITLE
-The 2-2-2 rule: the cheapest way to a calmer week
+The 1-3-5 rule for a realistic day
 
 ## CAPTION
-Boring systems survive. Exciting ones die by Thursday. This is the boring one that works. Follow for the whole system.
+A door you close instead of a wall you fall through. That's what a shutdown ritual does. Try it tonight.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
+Save this for Sunday night. Free template in the link in bio.
 
 ## THUMBNAIL IDEA
 One-page planner mockup, big text: 'ONE PAGE. CALM WEEK.' orange accent.
