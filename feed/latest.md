@@ -1,4 +1,4 @@
-# Today's Post Pack · 2026-10-26
+# Today's Post Pack · 2026-10-27
 
 **Niche:** calm weekly systems for broke students and first-job people
 
@@ -8,28 +8,28 @@
 I stopped buying planners. This free one-page reset does more.
 
 ## SCRIPT (40-55s voice-over)
-15 minutes on Sunday night. That's the whole investment.
+Every Sunday night, same three moves:
 
-Step 1: brain dump - write everything floating in your head on one page. The mess lives in your head, not your calendar.
-Step 2: pick 3 - circle the three things that actually matter this week. Everything else is a bonus.
-Step 3: one anchor - one meal, one walk, one early night. One thing that keeps the week human.
+1. Clean slate - wipe last week's list. Guilt doesn't live in this system.
+2. Plan meals and money - one line each. Broke-friendly means predictable.
+3. Put one fun thing in the calendar first. Not last. First.
 
-That's the reset. One page. Free template in the link in bio.
+Monday then feels like a start, not a surprise. Free template in the link in bio.
 
 ## TITLE
-The 15-minute Sunday ritual that fixes your week
+The shutdown ritual that ends your day properly
 
 ## CAPTION
-No course. No app. Twenty cents a week. The one-page system that actually works when you're broke and tired. Free template in the link in bio.
+Apps add features. This system subtracts. One page is easier to keep than any app. Link in bio for the free template.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-The free one-page reset is in the link in bio. Want the whole 8-page Calm Week System? It's live now.
+Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
 
 ## THUMBNAIL IDEA
-Two-column visual: messy brain vs one page, text: 'BRAIN DUMP FIRST.'
+Notebook + pen flat-lay, text: 'NO APP NEEDED.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
