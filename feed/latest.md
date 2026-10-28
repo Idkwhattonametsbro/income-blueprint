@@ -1,20 +1,21 @@
-# Today's Post Pack · 2026-10-27
+# Today's Post Pack · 2026-10-28
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-I stopped buying planners. This free one-page reset does more.
+3 apps you already have that can replace $200 of productivity tools.
 
 ## SCRIPT (40-55s voice-over)
-Every Sunday night, same three moves:
+You don't need Notion. You don't need a 47-step productivity guru system.
 
-1. Clean slate - wipe last week's list. Guilt doesn't live in this system.
-2. Plan meals and money - one line each. Broke-friendly means predictable.
-3. Put one fun thing in the calendar first. Not last. First.
+One notebook, one pen, one page a day:
+- Top: today's 3.
+- Middle: the deadline that scares you.
+- Bottom: one line you're grateful for.
 
-Monday then feels like a start, not a surprise. Free template in the link in bio.
+Cost: about 20 cents a week. The students who pass aren't more disciplined - they have a system small enough to keep.
 
 ## TITLE
 The shutdown ritual that ends your day properly
@@ -26,10 +27,10 @@ Apps add features. This system subtracts. One page is easier to keep than any ap
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
+Save this for Sunday night. Free template in the link in bio.
 
 ## THUMBNAIL IDEA
-Notebook + pen flat-lay, text: 'NO APP NEEDED.'
+Calendar close-up, one circle drawn around Sunday, text: '15 MIN SUNDAY.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
