@@ -1,35 +1,35 @@
-# Today's Post Pack · 2026-10-30
+# Today's Post Pack · 2026-10-31
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-I stopped buying planners. This free one-page reset does more.
+Stop organizing your whole life. Organize the next 7 days.
 
 ## SCRIPT (40-55s voice-over)
-The 1-3-5 rule: one big thing, three medium things, five small things. That's a realistic day.
+Every habit system assumes you have time, energy, and a clean desk.
+Broke, tired, and overwhelmed is a different game.
 
-Big = takes real focus, moves your life. Medium = about 30 minutes. Small = quick wins.
+Smaller than you think: 3 tasks, 10-minute evening, one page.
+Slower than you want: one habit at a time, two weeks minimum.
 
-If you finish the 1 and the 3, the day was a win. The 5 are just gravy.
-
-Your list isn't a promise - it's a menu. Pick what fits the day.
+Boring is the point. Boring systems survive. Exciting ones die by Thursday.
 
 ## TITLE
-Why boring systems beat exciting ones
+How broke students get organized (no course, no app)
 
 ## CAPTION
-The 1-3-5 rule: one big, three medium, five small. Finish the 1 and the 3 and the day is a win. Save this for tomorrow morning.
+Six hours out of 168. That's all the 2-2-2 rule costs - and it buys you a calmer week. Which 2 are you taking first?
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
+Save this for Sunday night. Free template in the link in bio.
 
 ## THUMBNAIL IDEA
-Two-column visual: messy brain vs one page, text: 'BRAIN DUMP FIRST.'
+Calendar close-up, one circle drawn around Sunday, text: '15 MIN SUNDAY.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
