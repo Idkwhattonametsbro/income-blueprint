@@ -1,23 +1,23 @@
-# Today's Etsy Product Pack · 2026-10-31
+# Today's Etsy Product Pack · 2026-11-01
 
 **Store niche:** minimal, calm, productive printables · **Freebie lead:** The One-Page Weekly Reset
 
 ---
 
 ## PRODUCT
-Student Semester Planner Pack
+Wedding Planning Checklist Pack
 
 ## WHY IT SELLS
-Students buy planners every term - evergreen, seasonal spikes (back-to-school).
+Wedding planners are high-ticket printables - couples pay for done-for-you organization.
 
 ## LISTING TITLE (140 chars max)
-Student Semester Planner Pack | Minimal Printable | A4 Digital Download PDF
+Wedding Planning Checklist Pack | Minimal Printable | A4 Digital Download PDF
 
 ## 13 TAGS
 digital download, printable, planner, template, pdf, minimal, organizer, budget, habits, a4, printable planner, instant download, gift for students
 
 ## DESCRIPTION (premium, no hype)
-Student Semester Planner Pack
+Wedding Planning Checklist Pack
 
 WHAT'S INSIDE
 • One clean page, ready to print
@@ -25,7 +25,7 @@ WHAT'S INSIDE
 • Print as many copies as you need
 
 WHY IT WORKS
-Students buy planners every term - evergreen, seasonal spikes (back-to-school).
+Wedding planners are high-ticket printables - couples pay for done-for-you organization.
 
 DETAILS
 • Instant digital download - nothing ships
@@ -36,13 +36,13 @@ DETAILS
 NOTE: This is a digital download. No physical item will be shipped.
 
 ## PRICE
-$6 USD
+$8 USD
 
 ## IMAGE BRIEF (for your listing mockup)
-Flat-lay mockup of the printed page on a cream background, warm orange accent, big readable title 'Student Semester Planner Pack'.
+Flat-lay mockup of the printed page on a cream background, warm orange accent, big readable title 'Wedding Planning Checklist Pack'.
 
 ## PRODUCT FILE
-See `product_2026-10-31.html` next to this file - open it, screenshot or print-to-PDF, and use it as the listing's product image and download.
+See `product_2026-11-01.html` next to this file - open it, screenshot or print-to-PDF, and use it as the listing's product image and download.
 
 ---
 **Next step:** create the listing on Etsy/Gumroad using the title, tags and description above.
