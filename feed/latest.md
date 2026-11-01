@@ -1,35 +1,35 @@
-# Today's Post Pack · 2026-10-31
+# Today's Post Pack · 2026-11-01
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-Stop organizing your whole life. Organize the next 7 days.
+The 10-minute evening that makes tomorrow effortless.
 
 ## SCRIPT (40-55s voice-over)
-Every habit system assumes you have time, energy, and a clean desk.
-Broke, tired, and overwhelmed is a different game.
+The 2-2-2 rule: the cheapest way to get a calmer week.
 
-Smaller than you think: 3 tasks, 10-minute evening, one page.
-Slower than you want: one habit at a time, two weeks minimum.
+Two hours a week for yourself. No work, no phone. Boring is fine.
+Two hours for one person who matters to you. Coffee, walk, call.
+Two hours for future you - one small thing that makes next week easier.
 
-Boring is the point. Boring systems survive. Exciting ones die by Thursday.
+That's 6 hours out of 168. You can afford it, even broke.
 
 ## TITLE
 How broke students get organized (no course, no app)
 
 ## CAPTION
-Six hours out of 168. That's all the 2-2-2 rule costs - and it buys you a calmer week. Which 2 are you taking first?
+A door you close instead of a wall you fall through. That's what a shutdown ritual does. Try it tonight.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-Save this for Sunday night. Free template in the link in bio.
+Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
 
 ## THUMBNAIL IDEA
-Calendar close-up, one circle drawn around Sunday, text: '15 MIN SUNDAY.'
+Phone screenshot of a clean 3-task list, big text: '3 THINGS ONLY.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
