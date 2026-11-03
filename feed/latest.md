@@ -1,36 +1,36 @@
-# Today's Post Pack · 2026-11-02
+# Today's Post Pack · 2026-11-03
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-The 1-3-5 rule explained in 30 seconds.
+This Sunday ritual takes 15 minutes and saves you 5 hours.
 
 ## SCRIPT (40-55s voice-over)
-You don't need Notion. You don't need a 47-step productivity guru system.
+When does your day actually end? If the answer is 'never', fix it tonight.
 
-One notebook, one pen, one page a day:
-- Top: today's 3.
-- Middle: the deadline that scares you.
-- Bottom: one line you're grateful for.
+Pick a time. At that time, three things:
+1. Write tomorrow's 3 tasks. Your brain can stop holding them.
+2. Close every tab - phone and brain.
+3. One sentence: 'Done for today.' Say it out loud.
 
-Cost: about 20 cents a week. The students who pass aren't more disciplined - they have a system small enough to keep.
+Ten minutes. The end of the day becomes a door you close instead of a wall you fall through.
 
 ## TITLE
-Why boring systems beat exciting ones
+The 10-minute evening that makes tomorrow effortless
 
 ## CAPTION
-Ten minutes tonight. Four moves. Tomorrow starts already winning. Save this so you remember at bedtime.
+Boring systems survive. Exciting ones die by Thursday. This is the boring one that works. Follow for the whole system.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-The free one-page reset is in the link in bio. Want the whole 8-page Calm Week System? It's live now.
+Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
 
 ## THUMBNAIL IDEA
-Two-column visual: messy brain vs one page, text: 'BRAIN DUMP FIRST.'
+Phone screenshot of a clean 3-task list, big text: '3 THINGS ONLY.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
