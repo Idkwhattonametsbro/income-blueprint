@@ -1,36 +1,35 @@
-# Today's Post Pack · 2026-11-03
+# Today's Post Pack · 2026-11-04
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-This Sunday ritual takes 15 minutes and saves you 5 hours.
+Do this every Sunday night and Monday stops feeling like a war.
 
 ## SCRIPT (40-55s voice-over)
-When does your day actually end? If the answer is 'never', fix it tonight.
+15 minutes on Sunday night. That's the whole investment.
 
-Pick a time. At that time, three things:
-1. Write tomorrow's 3 tasks. Your brain can stop holding them.
-2. Close every tab - phone and brain.
-3. One sentence: 'Done for today.' Say it out loud.
+Step 1: brain dump - write everything floating in your head on one page. The mess lives in your head, not your calendar.
+Step 2: pick 3 - circle the three things that actually matter this week. Everything else is a bonus.
+Step 3: one anchor - one meal, one walk, one early night. One thing that keeps the week human.
 
-Ten minutes. The end of the day becomes a door you close instead of a wall you fall through.
+That's the reset. One page. Free template in the link in bio.
 
 ## TITLE
-The 10-minute evening that makes tomorrow effortless
+The one-page system that replaces productivity apps
 
 ## CAPTION
-Boring systems survive. Exciting ones die by Thursday. This is the boring one that works. Follow for the whole system.
+Ten minutes tonight. Four moves. Tomorrow starts already winning. Save this so you remember at bedtime.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
+Save this for Sunday night. Free template in the link in bio.
 
 ## THUMBNAIL IDEA
-Phone screenshot of a clean 3-task list, big text: '3 THINGS ONLY.'
+Two-column visual: messy brain vs one page, text: 'BRAIN DUMP FIRST.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
