@@ -1,23 +1,23 @@
-# Today's Etsy Product Pack · 2026-11-03
+# Today's Etsy Product Pack · 2026-11-04
 
 **Store niche:** minimal, calm, productive printables · **Freebie lead:** The One-Page Weekly Reset
 
 ---
 
 ## PRODUCT
-ADHD Daily Planner Printable
+Digital Sticker Pack (Planner Decor)
 
 ## WHY IT SELLS
-ADHD planners are a documented untapped market on Etsy - specific audience, low competition.
+Digital stickers for GoodNotes/Notability are a growing niche with repeat buyers.
 
 ## LISTING TITLE (140 chars max)
-ADHD Daily Planner Printable | Minimal Printable | A4 Digital Download PDF
+Digital Sticker Pack (Planner Decor) | Minimal Printable | A4 Digital Download PDF
 
 ## 13 TAGS
 digital download, printable, planner, template, pdf, minimal, organizer, budget, habits, a4, printable planner, instant download, gift for students
 
 ## DESCRIPTION (premium, no hype)
-ADHD Daily Planner Printable
+Digital Sticker Pack (Planner Decor)
 
 WHAT'S INSIDE
 • One clean page, ready to print
@@ -25,7 +25,7 @@ WHAT'S INSIDE
 • Print as many copies as you need
 
 WHY IT WORKS
-ADHD planners are a documented untapped market on Etsy - specific audience, low competition.
+Digital stickers for GoodNotes/Notability are a growing niche with repeat buyers.
 
 DETAILS
 • Instant digital download - nothing ships
@@ -36,13 +36,13 @@ DETAILS
 NOTE: This is a digital download. No physical item will be shipped.
 
 ## PRICE
-$6 USD
+$3 USD
 
 ## IMAGE BRIEF (for your listing mockup)
-Flat-lay mockup of the printed page on a cream background, warm orange accent, big readable title 'ADHD Daily Planner Printable'.
+Flat-lay mockup of the printed page on a cream background, warm orange accent, big readable title 'Digital Sticker Pack (Planner Decor)'.
 
 ## PRODUCT FILE
-See `product_2026-11-03.html` next to this file - open it, screenshot or print-to-PDF, and use it as the listing's product image and download.
+See `product_2026-11-04.html` next to this file - open it, screenshot or print-to-PDF, and use it as the listing's product image and download.
 
 ---
 **Next step:** create the listing on Etsy/Gumroad using the title, tags and description above.
