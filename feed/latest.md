@@ -1,11 +1,11 @@
-# Today's Post Pack · 2026-11-04
+# Today's Post Pack · 2026-11-05
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-Do this every Sunday night and Monday stops feeling like a war.
+The 2-2-2 rule: the cheapest way to get a calmer week.
 
 ## SCRIPT (40-55s voice-over)
 15 minutes on Sunday night. That's the whole investment.
@@ -17,7 +17,7 @@ Step 3: one anchor - one meal, one walk, one early night. One thing that keeps t
 That's the reset. One page. Free template in the link in bio.
 
 ## TITLE
-The one-page system that replaces productivity apps
+The 10-minute evening that makes tomorrow effortless
 
 ## CAPTION
 Ten minutes tonight. Four moves. Tomorrow starts already winning. Save this so you remember at bedtime.
@@ -29,7 +29,7 @@ Ten minutes tonight. Four moves. Tomorrow starts already winning. Save this so y
 Save this for Sunday night. Free template in the link in bio.
 
 ## THUMBNAIL IDEA
-Two-column visual: messy brain vs one page, text: 'BRAIN DUMP FIRST.'
+Phone screenshot of a clean 3-task list, big text: '3 THINGS ONLY.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
