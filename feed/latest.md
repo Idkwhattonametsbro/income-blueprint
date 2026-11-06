@@ -1,35 +1,35 @@
-# Today's Post Pack · 2026-11-05
+# Today's Post Pack · 2026-11-06
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-The 2-2-2 rule: the cheapest way to get a calmer week.
+Do this every Sunday night and Monday stops feeling like a war.
 
 ## SCRIPT (40-55s voice-over)
-15 minutes on Sunday night. That's the whole investment.
+The 1-3-5 rule: one big thing, three medium things, five small things. That's a realistic day.
 
-Step 1: brain dump - write everything floating in your head on one page. The mess lives in your head, not your calendar.
-Step 2: pick 3 - circle the three things that actually matter this week. Everything else is a bonus.
-Step 3: one anchor - one meal, one walk, one early night. One thing that keeps the week human.
+Big = takes real focus, moves your life. Medium = about 30 minutes. Small = quick wins.
 
-That's the reset. One page. Free template in the link in bio.
+If you finish the 1 and the 3, the day was a win. The 5 are just gravy.
+
+Your list isn't a promise - it's a menu. Pick what fits the day.
 
 ## TITLE
-The 10-minute evening that makes tomorrow effortless
+The 2-2-2 rule: the cheapest way to a calmer week
 
 ## CAPTION
-Ten minutes tonight. Four moves. Tomorrow starts already winning. Save this so you remember at bedtime.
+The 1-3-5 rule: one big, three medium, five small. Finish the 1 and the 3 and the day is a win. Save this for tomorrow morning.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-Save this for Sunday night. Free template in the link in bio.
+The free one-page reset is in the link in bio. Want the whole 8-page Calm Week System? It's live now.
 
 ## THUMBNAIL IDEA
-Phone screenshot of a clean 3-task list, big text: '3 THINGS ONLY.'
+One-page planner mockup, big text: 'ONE PAGE. CALM WEEK.' orange accent.
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
