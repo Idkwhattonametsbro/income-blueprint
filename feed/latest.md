@@ -1,11 +1,11 @@
-# Today's Post Pack · 2026-11-06
+# Today's Post Pack · 2026-11-07
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-Do this every Sunday night and Monday stops feeling like a war.
+If you can't keep a habit for a week, you're not the problem. The system is.
 
 ## SCRIPT (40-55s voice-over)
 The 1-3-5 rule: one big thing, three medium things, five small things. That's a realistic day.
@@ -17,10 +17,10 @@ If you finish the 1 and the 3, the day was a win. The 5 are just gravy.
 Your list isn't a promise - it's a menu. Pick what fits the day.
 
 ## TITLE
-The 2-2-2 rule: the cheapest way to a calmer week
+The 1-3-5 rule for a realistic day
 
 ## CAPTION
-The 1-3-5 rule: one big, three medium, five small. Finish the 1 and the 3 and the day is a win. Save this for tomorrow morning.
+Your week doesn't need more apps. It needs one page. Save this for Sunday night - and grab the free template from the link in bio.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
