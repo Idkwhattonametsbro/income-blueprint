@@ -1,4 +1,4 @@
-# Today's Post Pack · 2026-11-08
+# Today's Post Pack · 2026-11-09
 
 **Niche:** calm weekly systems for broke students and first-job people
 
@@ -17,19 +17,19 @@ Step 3: one anchor - one meal, one walk, one early night. One thing that keeps t
 That's the reset. One page. Free template in the link in bio.
 
 ## TITLE
-The 15-minute Sunday ritual that fixes your week
+How broke students get organized (no course, no app)
 
 ## CAPTION
-Six hours out of 168. That's all the 2-2-2 rule costs - and it buys you a calmer week. Which 2 are you taking first?
+A door you close instead of a wall you fall through. That's what a shutdown ritual does. Try it tonight.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-The free one-page reset is in the link in bio. Want the whole 8-page Calm Week System? It's live now.
+Save this for Sunday night. Free template in the link in bio.
 
 ## THUMBNAIL IDEA
-Phone screenshot of a clean 3-task list, big text: '3 THINGS ONLY.'
+Notebook + pen flat-lay, text: 'NO APP NEEDED.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
