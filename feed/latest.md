@@ -1,35 +1,35 @@
-# Today's Post Pack · 2026-11-09
+# Today's Post Pack · 2026-11-10
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-Your week is a mess because you have no system - here's the 5-minute fix.
+I stopped buying planners. This free one-page reset does more.
 
 ## SCRIPT (40-55s voice-over)
-15 minutes on Sunday night. That's the whole investment.
+The 2-2-2 rule: the cheapest way to get a calmer week.
 
-Step 1: brain dump - write everything floating in your head on one page. The mess lives in your head, not your calendar.
-Step 2: pick 3 - circle the three things that actually matter this week. Everything else is a bonus.
-Step 3: one anchor - one meal, one walk, one early night. One thing that keeps the week human.
+Two hours a week for yourself. No work, no phone. Boring is fine.
+Two hours for one person who matters to you. Coffee, walk, call.
+Two hours for future you - one small thing that makes next week easier.
 
-That's the reset. One page. Free template in the link in bio.
+That's 6 hours out of 168. You can afford it, even broke.
 
 ## TITLE
-How broke students get organized (no course, no app)
+The 15-minute Sunday ritual that fixes your week
 
 ## CAPTION
-A door you close instead of a wall you fall through. That's what a shutdown ritual does. Try it tonight.
+No course. No app. Twenty cents a week. The one-page system that actually works when you're broke and tired. Free template in the link in bio.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-Save this for Sunday night. Free template in the link in bio.
+Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
 
 ## THUMBNAIL IDEA
-Notebook + pen flat-lay, text: 'NO APP NEEDED.'
+Phone screenshot of a clean 3-task list, big text: '3 THINGS ONLY.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
