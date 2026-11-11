@@ -1,4 +1,4 @@
-# Today's Etsy Product Pack · 2026-11-10
+# Today's Etsy Product Pack · 2026-11-11
 
 **Store niche:** minimal, calm, productive printables · **Freebie lead:** The One-Page Weekly Reset
 
@@ -42,7 +42,7 @@ $3 USD
 Flat-lay mockup of the printed page on a cream background, warm orange accent, big readable title 'Digital Sticker Pack (Planner Decor)'.
 
 ## PRODUCT FILE
-See `product_2026-11-10.html` next to this file - open it, screenshot or print-to-PDF, and use it as the listing's product image and download.
+See `product_2026-11-11.html` next to this file - open it, screenshot or print-to-PDF, and use it as the listing's product image and download.
 
 ---
 **Next step:** create the listing on Etsy/Gumroad using the title, tags and description above.
