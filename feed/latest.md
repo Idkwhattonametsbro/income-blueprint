@@ -1,23 +1,24 @@
-# Today's Post Pack · 2026-11-10
+# Today's Post Pack · 2026-11-11
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-I stopped buying planners. This free one-page reset does more.
+The 10-minute evening that makes tomorrow effortless.
 
 ## SCRIPT (40-55s voice-over)
-The 2-2-2 rule: the cheapest way to get a calmer week.
+You don't need Notion. You don't need a 47-step productivity guru system.
 
-Two hours a week for yourself. No work, no phone. Boring is fine.
-Two hours for one person who matters to you. Coffee, walk, call.
-Two hours for future you - one small thing that makes next week easier.
+One notebook, one pen, one page a day:
+- Top: today's 3.
+- Middle: the deadline that scares you.
+- Bottom: one line you're grateful for.
 
-That's 6 hours out of 168. You can afford it, even broke.
+Cost: about 20 cents a week. The students who pass aren't more disciplined - they have a system small enough to keep.
 
 ## TITLE
-The 15-minute Sunday ritual that fixes your week
+The 2-2-2 rule: the cheapest way to a calmer week
 
 ## CAPTION
 No course. No app. Twenty cents a week. The one-page system that actually works when you're broke and tired. Free template in the link in bio.
@@ -26,10 +27,10 @@ No course. No app. Twenty cents a week. The one-page system that actually works 
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
+The free one-page reset is in the link in bio. Want the whole 8-page Calm Week System? It's live now.
 
 ## THUMBNAIL IDEA
-Phone screenshot of a clean 3-task list, big text: '3 THINGS ONLY.'
+One-page planner mockup, big text: 'ONE PAGE. CALM WEEK.' orange accent.
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
