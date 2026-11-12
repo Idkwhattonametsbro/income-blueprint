@@ -1,36 +1,36 @@
-# Today's Post Pack · 2026-11-11
+# Today's Post Pack · 2026-11-12
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-The 10-minute evening that makes tomorrow effortless.
+How broke students actually get organized (no course, no app).
 
 ## SCRIPT (40-55s voice-over)
-You don't need Notion. You don't need a 47-step productivity guru system.
+Ten minutes before bed, four moves:
 
-One notebook, one pen, one page a day:
-- Top: today's 3.
-- Middle: the deadline that scares you.
-- Bottom: one line you're grateful for.
+1. Phone across the room. You'll thank me at 2AM.
+2. Tomorrow's clothes out (or bag packed).
+3. Tomorrow's 3 tasks written down.
+4. Water on the nightstand.
 
-Cost: about 20 cents a week. The students who pass aren't more disciplined - they have a system small enough to keep.
+That's it. Future-you starts the day already winning.
 
 ## TITLE
-The 2-2-2 rule: the cheapest way to a calmer week
+The 10-minute evening that makes tomorrow effortless
 
 ## CAPTION
-No course. No app. Twenty cents a week. The one-page system that actually works when you're broke and tired. Free template in the link in bio.
+Your week doesn't need more apps. It needs one page. Save this for Sunday night - and grab the free template from the link in bio.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-The free one-page reset is in the link in bio. Want the whole 8-page Calm Week System? It's live now.
+Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
 
 ## THUMBNAIL IDEA
-One-page planner mockup, big text: 'ONE PAGE. CALM WEEK.' orange accent.
+Calendar close-up, one circle drawn around Sunday, text: '15 MIN SUNDAY.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
