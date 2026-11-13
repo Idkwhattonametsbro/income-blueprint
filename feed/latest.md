@@ -1,4 +1,4 @@
-# Today's Post Pack · 2026-11-12
+# Today's Post Pack · 2026-11-13
 
 **Niche:** calm weekly systems for broke students and first-job people
 
@@ -8,29 +8,29 @@
 How broke students actually get organized (no course, no app).
 
 ## SCRIPT (40-55s voice-over)
-Ten minutes before bed, four moves:
+When does your day actually end? If the answer is 'never', fix it tonight.
 
-1. Phone across the room. You'll thank me at 2AM.
-2. Tomorrow's clothes out (or bag packed).
-3. Tomorrow's 3 tasks written down.
-4. Water on the nightstand.
+Pick a time. At that time, three things:
+1. Write tomorrow's 3 tasks. Your brain can stop holding them.
+2. Close every tab - phone and brain.
+3. One sentence: 'Done for today.' Say it out loud.
 
-That's it. Future-you starts the day already winning.
+Ten minutes. The end of the day becomes a door you close instead of a wall you fall through.
 
 ## TITLE
-The 10-minute evening that makes tomorrow effortless
+The 2-2-2 rule: the cheapest way to a calmer week
 
 ## CAPTION
-Your week doesn't need more apps. It needs one page. Save this for Sunday night - and grab the free template from the link in bio.
+Boring systems survive. Exciting ones die by Thursday. This is the boring one that works. Follow for the whole system.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
+Save this for Sunday night. Free template in the link in bio.
 
 ## THUMBNAIL IDEA
-Calendar close-up, one circle drawn around Sunday, text: '15 MIN SUNDAY.'
+Two-column visual: messy brain vs one page, text: 'BRAIN DUMP FIRST.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
