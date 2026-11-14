@@ -1,36 +1,35 @@
-# Today's Post Pack · 2026-11-13
+# Today's Post Pack · 2026-11-14
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-How broke students actually get organized (no course, no app).
+Free template inside: the weekly reset that takes one page.
 
 ## SCRIPT (40-55s voice-over)
-When does your day actually end? If the answer is 'never', fix it tonight.
+Every habit system assumes you have time, energy, and a clean desk.
+Broke, tired, and overwhelmed is a different game.
 
-Pick a time. At that time, three things:
-1. Write tomorrow's 3 tasks. Your brain can stop holding them.
-2. Close every tab - phone and brain.
-3. One sentence: 'Done for today.' Say it out loud.
+Smaller than you think: 3 tasks, 10-minute evening, one page.
+Slower than you want: one habit at a time, two weeks minimum.
 
-Ten minutes. The end of the day becomes a door you close instead of a wall you fall through.
+Boring is the point. Boring systems survive. Exciting ones die by Thursday.
 
 ## TITLE
-The 2-2-2 rule: the cheapest way to a calmer week
+The 10-minute evening that makes tomorrow effortless
 
 ## CAPTION
-Boring systems survive. Exciting ones die by Thursday. This is the boring one that works. Follow for the whole system.
+Your week doesn't need more apps. It needs one page. Save this for Sunday night - and grab the free template from the link in bio.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-Save this for Sunday night. Free template in the link in bio.
+The free one-page reset is in the link in bio. Want the whole 8-page Calm Week System? It's live now.
 
 ## THUMBNAIL IDEA
-Two-column visual: messy brain vs one page, text: 'BRAIN DUMP FIRST.'
+One-page planner mockup, big text: 'ONE PAGE. CALM WEEK.' orange accent.
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
