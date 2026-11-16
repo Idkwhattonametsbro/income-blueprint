@@ -1,36 +1,35 @@
-# Today's Post Pack · 2026-11-15
+# Today's Post Pack · 2026-11-16
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-The 1-3-5 rule explained in 30 seconds.
+I stopped buying planners. This free one-page reset does more.
 
 ## SCRIPT (40-55s voice-over)
-When does your day actually end? If the answer is 'never', fix it tonight.
+Every Sunday night, same three moves:
 
-Pick a time. At that time, three things:
-1. Write tomorrow's 3 tasks. Your brain can stop holding them.
-2. Close every tab - phone and brain.
-3. One sentence: 'Done for today.' Say it out loud.
+1. Clean slate - wipe last week's list. Guilt doesn't live in this system.
+2. Plan meals and money - one line each. Broke-friendly means predictable.
+3. Put one fun thing in the calendar first. Not last. First.
 
-Ten minutes. The end of the day becomes a door you close instead of a wall you fall through.
+Monday then feels like a start, not a surprise. Free template in the link in bio.
 
 ## TITLE
-The 10-minute evening that makes tomorrow effortless
+The one-page system that replaces productivity apps
 
 ## CAPTION
-Ten minutes tonight. Four moves. Tomorrow starts already winning. Save this so you remember at bedtime.
+Your week doesn't need more apps. It needs one page. Save this for Sunday night - and grab the free template from the link in bio.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-Save this for Sunday night. Free template in the link in bio.
+Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
 
 ## THUMBNAIL IDEA
-Two-column visual: messy brain vs one page, text: 'BRAIN DUMP FIRST.'
+Notebook + pen flat-lay, text: 'NO APP NEEDED.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
