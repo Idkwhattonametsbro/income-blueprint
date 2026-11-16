@@ -1,23 +1,23 @@
-# Today's Etsy Product Pack · 2026-11-15
+# Today's Etsy Product Pack · 2026-11-16
 
 **Store niche:** minimal, calm, productive printables · **Freebie lead:** The One-Page Weekly Reset
 
 ---
 
 ## PRODUCT
-Digital Wall Art Quote Set (3-pack)
+Habit Tracker + Yearly Overview
 
 ## WHY IT SELLS
-Digital wall art is an impulse-buy category - three files per listing raises perceived value.
+Habit trackers combine planner + self-improvement demand - two files, one listing.
 
 ## LISTING TITLE (140 chars max)
-Digital Wall Art Quote Set (3-pack) | Minimal Printable | A4 Digital Download PDF
+Habit Tracker + Yearly Overview | Minimal Printable | A4 Digital Download PDF
 
 ## 13 TAGS
 digital download, printable, planner, template, pdf, minimal, organizer, budget, habits, a4, printable planner, instant download, gift for students
 
 ## DESCRIPTION (premium, no hype)
-Digital Wall Art Quote Set (3-pack)
+Habit Tracker + Yearly Overview
 
 WHAT'S INSIDE
 • One clean page, ready to print
@@ -25,7 +25,7 @@ WHAT'S INSIDE
 • Print as many copies as you need
 
 WHY IT WORKS
-Digital wall art is an impulse-buy category - three files per listing raises perceived value.
+Habit trackers combine planner + self-improvement demand - two files, one listing.
 
 DETAILS
 • Instant digital download - nothing ships
@@ -39,10 +39,10 @@ NOTE: This is a digital download. No physical item will be shipped.
 $5 USD
 
 ## IMAGE BRIEF (for your listing mockup)
-Flat-lay mockup of the printed page on a cream background, warm orange accent, big readable title 'Digital Wall Art Quote Set (3-pack)'.
+Flat-lay mockup of the printed page on a cream background, warm orange accent, big readable title 'Habit Tracker + Yearly Overview'.
 
 ## PRODUCT FILE
-See `product_2026-11-15.html` next to this file - open it, screenshot or print-to-PDF, and use it as the listing's product image and download.
+See `product_2026-11-16.html` next to this file - open it, screenshot or print-to-PDF, and use it as the listing's product image and download.
 
 ---
 **Next step:** create the listing on Etsy/Gumroad using the title, tags and description above.
