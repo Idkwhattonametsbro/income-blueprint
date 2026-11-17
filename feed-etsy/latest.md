@@ -1,23 +1,23 @@
-# Today's Etsy Product Pack · 2026-11-16
+# Today's Etsy Product Pack · 2026-11-17
 
 **Store niche:** minimal, calm, productive printables · **Freebie lead:** The One-Page Weekly Reset
 
 ---
 
 ## PRODUCT
-Habit Tracker + Yearly Overview
+Student Semester Planner Pack
 
 ## WHY IT SELLS
-Habit trackers combine planner + self-improvement demand - two files, one listing.
+Students buy planners every term - evergreen, seasonal spikes (back-to-school).
 
 ## LISTING TITLE (140 chars max)
-Habit Tracker + Yearly Overview | Minimal Printable | A4 Digital Download PDF
+Student Semester Planner Pack | Minimal Printable | A4 Digital Download PDF
 
 ## 13 TAGS
 digital download, printable, planner, template, pdf, minimal, organizer, budget, habits, a4, printable planner, instant download, gift for students
 
 ## DESCRIPTION (premium, no hype)
-Habit Tracker + Yearly Overview
+Student Semester Planner Pack
 
 WHAT'S INSIDE
 • One clean page, ready to print
@@ -25,7 +25,7 @@ WHAT'S INSIDE
 • Print as many copies as you need
 
 WHY IT WORKS
-Habit trackers combine planner + self-improvement demand - two files, one listing.
+Students buy planners every term - evergreen, seasonal spikes (back-to-school).
 
 DETAILS
 • Instant digital download - nothing ships
@@ -36,13 +36,13 @@ DETAILS
 NOTE: This is a digital download. No physical item will be shipped.
 
 ## PRICE
-$5 USD
+$6 USD
 
 ## IMAGE BRIEF (for your listing mockup)
-Flat-lay mockup of the printed page on a cream background, warm orange accent, big readable title 'Habit Tracker + Yearly Overview'.
+Flat-lay mockup of the printed page on a cream background, warm orange accent, big readable title 'Student Semester Planner Pack'.
 
 ## PRODUCT FILE
-See `product_2026-11-16.html` next to this file - open it, screenshot or print-to-PDF, and use it as the listing's product image and download.
+See `product_2026-11-17.html` next to this file - open it, screenshot or print-to-PDF, and use it as the listing's product image and download.
 
 ---
 **Next step:** create the listing on Etsy/Gumroad using the title, tags and description above.
