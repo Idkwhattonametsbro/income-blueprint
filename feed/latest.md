@@ -1,36 +1,35 @@
-# Today's Post Pack · 2026-11-17
+# Today's Post Pack · 2026-11-18
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-If you can't keep a habit for a week, you're not the problem. The system is.
+I stopped buying planners. This free one-page reset does more.
 
 ## SCRIPT (40-55s voice-over)
-When does your day actually end? If the answer is 'never', fix it tonight.
+Every Sunday night, same three moves:
 
-Pick a time. At that time, three things:
-1. Write tomorrow's 3 tasks. Your brain can stop holding them.
-2. Close every tab - phone and brain.
-3. One sentence: 'Done for today.' Say it out loud.
+1. Clean slate - wipe last week's list. Guilt doesn't live in this system.
+2. Plan meals and money - one line each. Broke-friendly means predictable.
+3. Put one fun thing in the calendar first. Not last. First.
 
-Ten minutes. The end of the day becomes a door you close instead of a wall you fall through.
+Monday then feels like a start, not a surprise. Free template in the link in bio.
 
 ## TITLE
 The 1-3-5 rule for a realistic day
 
 ## CAPTION
-Ten minutes tonight. Four moves. Tomorrow starts already winning. Save this so you remember at bedtime.
+Apps add features. This system subtracts. One page is easier to keep than any app. Link in bio for the free template.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
+The free one-page reset is in the link in bio. Want the whole 8-page Calm Week System? It's live now.
 
 ## THUMBNAIL IDEA
-Notebook + pen flat-lay, text: 'NO APP NEEDED.'
+One-page planner mockup, big text: 'ONE PAGE. CALM WEEK.' orange accent.
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
