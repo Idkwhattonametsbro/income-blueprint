@@ -1,23 +1,23 @@
-# Today's Post Pack · 2026-11-18
+# Today's Post Pack · 2026-11-19
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-I stopped buying planners. This free one-page reset does more.
+The 10-minute evening that makes tomorrow effortless.
 
 ## SCRIPT (40-55s voice-over)
-Every Sunday night, same three moves:
+15 minutes on Sunday night. That's the whole investment.
 
-1. Clean slate - wipe last week's list. Guilt doesn't live in this system.
-2. Plan meals and money - one line each. Broke-friendly means predictable.
-3. Put one fun thing in the calendar first. Not last. First.
+Step 1: brain dump - write everything floating in your head on one page. The mess lives in your head, not your calendar.
+Step 2: pick 3 - circle the three things that actually matter this week. Everything else is a bonus.
+Step 3: one anchor - one meal, one walk, one early night. One thing that keeps the week human.
 
-Monday then feels like a start, not a surprise. Free template in the link in bio.
+That's the reset. One page. Free template in the link in bio.
 
 ## TITLE
-The 1-3-5 rule for a realistic day
+The shutdown ritual that ends your day properly
 
 ## CAPTION
 Apps add features. This system subtracts. One page is easier to keep than any app. Link in bio for the free template.
@@ -26,10 +26,10 @@ Apps add features. This system subtracts. One page is easier to keep than any ap
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-The free one-page reset is in the link in bio. Want the whole 8-page Calm Week System? It's live now.
+Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
 
 ## THUMBNAIL IDEA
-One-page planner mockup, big text: 'ONE PAGE. CALM WEEK.' orange accent.
+Phone screenshot of a clean 3-task list, big text: '3 THINGS ONLY.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
