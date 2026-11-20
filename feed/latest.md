@@ -1,11 +1,11 @@
-# Today's Post Pack · 2026-11-19
+# Today's Post Pack · 2026-11-20
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-The 10-minute evening that makes tomorrow effortless.
+If you can't keep a habit for a week, you're not the problem. The system is.
 
 ## SCRIPT (40-55s voice-over)
 15 minutes on Sunday night. That's the whole investment.
@@ -17,10 +17,10 @@ Step 3: one anchor - one meal, one walk, one early night. One thing that keeps t
 That's the reset. One page. Free template in the link in bio.
 
 ## TITLE
-The shutdown ritual that ends your day properly
+How broke students get organized (no course, no app)
 
 ## CAPTION
-Apps add features. This system subtracts. One page is easier to keep than any app. Link in bio for the free template.
+Your week doesn't need more apps. It needs one page. Save this for Sunday night - and grab the free template from the link in bio.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
