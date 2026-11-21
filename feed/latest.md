@@ -1,26 +1,27 @@
-# Today's Post Pack · 2026-11-20
+# Today's Post Pack · 2026-11-21
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-If you can't keep a habit for a week, you're not the problem. The system is.
+How broke students actually get organized (no course, no app).
 
 ## SCRIPT (40-55s voice-over)
-15 minutes on Sunday night. That's the whole investment.
+Ten minutes before bed, four moves:
 
-Step 1: brain dump - write everything floating in your head on one page. The mess lives in your head, not your calendar.
-Step 2: pick 3 - circle the three things that actually matter this week. Everything else is a bonus.
-Step 3: one anchor - one meal, one walk, one early night. One thing that keeps the week human.
+1. Phone across the room. You'll thank me at 2AM.
+2. Tomorrow's clothes out (or bag packed).
+3. Tomorrow's 3 tasks written down.
+4. Water on the nightstand.
 
-That's the reset. One page. Free template in the link in bio.
+That's it. Future-you starts the day already winning.
 
 ## TITLE
-How broke students get organized (no course, no app)
+The 1-3-5 rule for a realistic day
 
 ## CAPTION
-Your week doesn't need more apps. It needs one page. Save this for Sunday night - and grab the free template from the link in bio.
+Ten minutes tonight. Four moves. Tomorrow starts already winning. Save this so you remember at bedtime.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
