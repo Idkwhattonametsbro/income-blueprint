@@ -1,36 +1,35 @@
-# Today's Post Pack · 2026-11-21
+# Today's Post Pack · 2026-11-22
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-How broke students actually get organized (no course, no app).
+If you can't keep a habit for a week, you're not the problem. The system is.
 
 ## SCRIPT (40-55s voice-over)
-Ten minutes before bed, four moves:
+Every habit system assumes you have time, energy, and a clean desk.
+Broke, tired, and overwhelmed is a different game.
 
-1. Phone across the room. You'll thank me at 2AM.
-2. Tomorrow's clothes out (or bag packed).
-3. Tomorrow's 3 tasks written down.
-4. Water on the nightstand.
+Smaller than you think: 3 tasks, 10-minute evening, one page.
+Slower than you want: one habit at a time, two weeks minimum.
 
-That's it. Future-you starts the day already winning.
+Boring is the point. Boring systems survive. Exciting ones die by Thursday.
 
 ## TITLE
-The 1-3-5 rule for a realistic day
+The shutdown ritual that ends your day properly
 
 ## CAPTION
-Ten minutes tonight. Four moves. Tomorrow starts already winning. Save this so you remember at bedtime.
+Apps add features. This system subtracts. One page is easier to keep than any app. Link in bio for the free template.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
+The free one-page reset is in the link in bio. Want the whole 8-page Calm Week System? It's live now.
 
 ## THUMBNAIL IDEA
-Phone screenshot of a clean 3-task list, big text: '3 THINGS ONLY.'
+Two-column visual: messy brain vs one page, text: 'BRAIN DUMP FIRST.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
