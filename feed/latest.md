@@ -1,32 +1,32 @@
-# Today's Post Pack · 2026-11-22
+# Today's Post Pack · 2026-11-23
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-If you can't keep a habit for a week, you're not the problem. The system is.
+I stopped buying planners. This free one-page reset does more.
 
 ## SCRIPT (40-55s voice-over)
-Every habit system assumes you have time, energy, and a clean desk.
-Broke, tired, and overwhelmed is a different game.
+Every Sunday night, same three moves:
 
-Smaller than you think: 3 tasks, 10-minute evening, one page.
-Slower than you want: one habit at a time, two weeks minimum.
+1. Clean slate - wipe last week's list. Guilt doesn't live in this system.
+2. Plan meals and money - one line each. Broke-friendly means predictable.
+3. Put one fun thing in the calendar first. Not last. First.
 
-Boring is the point. Boring systems survive. Exciting ones die by Thursday.
+Monday then feels like a start, not a surprise. Free template in the link in bio.
 
 ## TITLE
-The shutdown ritual that ends your day properly
+The one-page system that replaces productivity apps
 
 ## CAPTION
-Apps add features. This system subtracts. One page is easier to keep than any app. Link in bio for the free template.
+Six hours out of 168. That's all the 2-2-2 rule costs - and it buys you a calmer week. Which 2 are you taking first?
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-The free one-page reset is in the link in bio. Want the whole 8-page Calm Week System? It's live now.
+Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
 
 ## THUMBNAIL IDEA
 Two-column visual: messy brain vs one page, text: 'BRAIN DUMP FIRST.'
