@@ -1,26 +1,26 @@
-# Today's Post Pack · 2026-11-23
+# Today's Post Pack · 2026-11-24
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-I stopped buying planners. This free one-page reset does more.
+Your to-do list is too long. Cut it to 3 things and watch what happens.
 
 ## SCRIPT (40-55s voice-over)
-Every Sunday night, same three moves:
+Every habit system assumes you have time, energy, and a clean desk.
+Broke, tired, and overwhelmed is a different game.
 
-1. Clean slate - wipe last week's list. Guilt doesn't live in this system.
-2. Plan meals and money - one line each. Broke-friendly means predictable.
-3. Put one fun thing in the calendar first. Not last. First.
+Smaller than you think: 3 tasks, 10-minute evening, one page.
+Slower than you want: one habit at a time, two weeks minimum.
 
-Monday then feels like a start, not a surprise. Free template in the link in bio.
+Boring is the point. Boring systems survive. Exciting ones die by Thursday.
 
 ## TITLE
-The one-page system that replaces productivity apps
+How broke students get organized (no course, no app)
 
 ## CAPTION
-Six hours out of 168. That's all the 2-2-2 rule costs - and it buys you a calmer week. Which 2 are you taking first?
+A door you close instead of a wall you fall through. That's what a shutdown ritual does. Try it tonight.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
@@ -29,7 +29,7 @@ Six hours out of 168. That's all the 2-2-2 rule costs - and it buys you a calmer
 Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
 
 ## THUMBNAIL IDEA
-Two-column visual: messy brain vs one page, text: 'BRAIN DUMP FIRST.'
+One-page planner mockup, big text: 'ONE PAGE. CALM WEEK.' orange accent.
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
