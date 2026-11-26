@@ -1,11 +1,11 @@
-# Today's Post Pack · 2026-11-25
+# Today's Post Pack · 2026-11-26
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-The 10-minute evening that makes tomorrow effortless.
+If you can't keep a habit for a week, you're not the problem. The system is.
 
 ## SCRIPT (40-55s voice-over)
 You don't need Notion. You don't need a 47-step productivity guru system.
@@ -18,10 +18,10 @@ One notebook, one pen, one page a day:
 Cost: about 20 cents a week. The students who pass aren't more disciplined - they have a system small enough to keep.
 
 ## TITLE
-The 1-3-5 rule for a realistic day
+How broke students get organized (no course, no app)
 
 ## CAPTION
-Ten minutes tonight. Four moves. Tomorrow starts already winning. Save this so you remember at bedtime.
+A door you close instead of a wall you fall through. That's what a shutdown ritual does. Try it tonight.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
@@ -30,7 +30,7 @@ Ten minutes tonight. Four moves. Tomorrow starts already winning. Save this so y
 The free one-page reset is in the link in bio. Want the whole 8-page Calm Week System? It's live now.
 
 ## THUMBNAIL IDEA
-Calendar close-up, one circle drawn around Sunday, text: '15 MIN SUNDAY.'
+Notebook + pen flat-lay, text: 'NO APP NEEDED.'
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
