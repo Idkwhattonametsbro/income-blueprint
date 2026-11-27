@@ -1,36 +1,36 @@
-# Today's Post Pack · 2026-11-26
+# Today's Post Pack · 2026-11-27
 
 **Niche:** calm weekly systems for broke students and first-job people
 
 ---
 
 ## HOOK (first second, no intro)
-If you can't keep a habit for a week, you're not the problem. The system is.
+Your to-do list is too long. Cut it to 3 things and watch what happens.
 
 ## SCRIPT (40-55s voice-over)
-You don't need Notion. You don't need a 47-step productivity guru system.
+Ten minutes before bed, four moves:
 
-One notebook, one pen, one page a day:
-- Top: today's 3.
-- Middle: the deadline that scares you.
-- Bottom: one line you're grateful for.
+1. Phone across the room. You'll thank me at 2AM.
+2. Tomorrow's clothes out (or bag packed).
+3. Tomorrow's 3 tasks written down.
+4. Water on the nightstand.
 
-Cost: about 20 cents a week. The students who pass aren't more disciplined - they have a system small enough to keep.
+That's it. Future-you starts the day already winning.
 
 ## TITLE
-How broke students get organized (no course, no app)
+Why boring systems beat exciting ones
 
 ## CAPTION
-A door you close instead of a wall you fall through. That's what a shutdown ritual does. Try it tonight.
+Boring systems survive. Exciting ones die by Thursday. This is the boring one that works. Follow for the whole system.
 
 ## HASHTAGS (3 max)
 #calmproductivity #weeklyreset #calm
 
 ## PIN COMMENT
-The free one-page reset is in the link in bio. Want the whole 8-page Calm Week System? It's live now.
+Free weekly reset template -> link in bio. Full 8-page kit when it's ready - follow so you don't miss it.
 
 ## THUMBNAIL IDEA
-Notebook + pen flat-lay, text: 'NO APP NEEDED.'
+One-page planner mockup, big text: 'ONE PAGE. CALM WEEK.' orange accent.
 
 ---
 **Post at:** evening, around 19:00-20:00 local · **Platform:** YouTube Shorts then mirror to TikTok
